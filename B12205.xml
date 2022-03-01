@@ -1,0 +1,3065 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fig for fortune. A.C.</title>
+            <author>Copley, Anthony, 1567-1607?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12205</idno>
+            <idno type="STC">STC 5737</idno>
+            <idno type="STC">ESTC S105074</idno>
+            <idno type="EEBO-CITATION">99840804</idno>
+            <idno type="PROQUEST">99840804</idno>
+            <idno type="VID">176459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 206:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fig for fortune. A.C.</title>
+                  <author>Copley, Anthony, 1567-1607?</author>
+               </titleStmt>
+               <extent>[8], 74 [i.e. 84], [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Iohnes for C.A. [i.e. Anthony Copley?],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Anthonie Copley.</note>
+                  <note>In verse.</note>
+                  <note>Identity of C.A. conjectured by STC.</note>
+                  <note>The first leaf is blank except for signature-mark "A" and a fleuron; the last two leaves are blank.</note>
+                  <note>P. 84 misnumbered 74.</note>
+                  <note>Two ornaments here were used by John Danter.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176459:1"/>
+            <pb facs="tcp:176459:1"/>
+            <pb facs="tcp:176459:2"/>
+            <pb facs="tcp:176459:2"/>
+            <p>A FIG FOR Fortune. Recta Securus. A. C.</p>
+            <p>LONDON Printed by Richard Iohnes for C. A. 1596.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176459:3"/>
+            <pb facs="tcp:176459:3"/>
+            <head>To the Right Honourable Anthonie Browne, L. Vic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpt Mont-ague, euerla<g ref="char:EOLhyphen"/>ſting <hi>glorie to his vertues.</hi>
+            </head>
+            <lg>
+               <l>FLie vale-bred Muſe to heauen-high <hi>Mont-ague</hi>
+               </l>
+               <l>Honoring thy playneſſe with ſo quaint aſpire:</l>
+               <l>It is a baggard Hawke that neuer knew</l>
+               <l>The Fawlkoners fiſt; It is a drowſic fire</l>
+               <l>That yeelds nor flame nor fume; It is an idle voyce</l>
+               <l>That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere was hard to tune nor ſound, nor note nor noiſe.</l>
+               <l>Great <hi>Mont-ague;</hi> thriſe great in Vertues glorie</l>
+               <l>And therfore dulie great in my affections,</l>
+               <l>Whom not a Pick-thanke ſpirit of flatterie</l>
+               <l>But well aduiſed zeale to your perfections</l>
+               <l>Mooues to inſtile you ſo: Though likewiſe ſo you be</l>
+               <l>In the ſublimitie of your blood and Vicomptie.</l>
+               <l>Daigne in your grace the ſpirit of a man</l>
+               <l>Diſaſtred for vertue; if at leaſt it be</l>
+               <l>Diſaſter to be winnowed out Fortunes Fan</l>
+               <l>Into the Fan of Grace and Sionrie</l>
+               <l>Wherin repurify'd to Gods eternall glorie</l>
+               <l>The Deuill rues in man old <hi>Adams</hi> injurie.</l>
+               <l>Though meane and merit-leſſe the Muſe may ſeeme</l>
+               <l>To your aduice; as not from <hi>Helicon,</hi>
+               </l>
+               <l>Yet well I hope the matter will redeeme</l>
+               <l>That fraile default, as ſpirited from <hi>Sion:</hi>
+               </l>
+               <l>If <hi>Sions</hi> holie name be gracious to your eare</l>
+               <l>Hold it in gree; els for the zeale to you I beare,</l>
+               <l>At leaſt your happie Names faire liuerie let it weare.</l>
+            </lg>
+            <closer>
+               <signed>Your Lordſh. humblie at commandement. <hi>Anthonie Copley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176459:4"/>
+            <pb facs="tcp:176459:4"/>
+            <head>The Argument to the Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N <hi>Elizian</hi> out-caſt of Fortune, ranging on his Iade <hi>Melancholie</hi> through the Deſert of his affliction, in hope to find out ſome where either eaſe or end of the ſame, hapneth firſt vpon <hi>Ca<g ref="char:EOLhyphen"/>toes</hi> ghoſt a ſpirit of Diſpair &amp; ſelf-miſdoom which perſwades him to kill himſelfe: But, for ſhe ended her Oratory with a Sulphur vaniſh fro<g ref="char:cmbAbbrStroke">̄</g> out his ſight, he miſdoubted both her and her tale. Then poſting onward through the reſidue of the night; he next chanceth on the ſpirit of <hi>Re<g ref="char:EOLhyphen"/>uenge:</hi> She perſwades him blood and treacherie against all his enemies, as th'onlie means to remount to priſtin bleſſe in deſpight of Fortune: But ſhe likewiſe manifesting in the end the treaſon of her tale by a ſudden whip-away from his eye at the ſight of break of day in the East, left him alſo conceipted of her daunger. Thirdly, rapt from off his <hi>Melancholie</hi> (which now began to faint vnder him at the light of a new day of Grace) he was ſud<g ref="char:EOLhyphen"/>denlie mounted vpon the Steed of <hi>Good Deſire,</hi> and by him brought to Mount-<hi>Sion</hi> the Temple of Peace; where by <hi>Cate<g ref="char:EOLhyphen"/>chtyſius</hi> an Hermit (who greatlie woondred to ſee a diſtreſsed <hi>Elizian</hi> in thoſe partes vnder ſo happie daies of <hi>Eliza</hi>) he was by him in the houſe of <hi>Deuotion</hi> catechized, and there alſo cele<g ref="char:EOLhyphen"/>ſtially arm'd by an Angell, and within a while after in-denized by the high Sacrificator a Champion of that Temple against the inſults of Fortune; whom I haue titled by the name of <hi>Dobleſſa</hi>
+               <pb facs="tcp:176459:5"/>in reſpect of the double danger both of her luring and lowring inconſtancie: She, whiles the Sionttes were all in peacefull adora<g ref="char:EOLhyphen"/>tion of Almightie God in the Temple, came with her Babello<g ref="char:EOLhyphen"/>nian-rout to aſsault the place, but was eftſoons by the valure of thoſe Templers ſhamefullie repulſed: Feaſt and thankes was made to God therfore throughout all the Region; in which ſolem<g ref="char:EOLhyphen"/>nitie the Grace of God houering ouer the multitude in the Pro<g ref="char:EOLhyphen"/>ceſsion time like a virgin attended vpon with all the Court of heauen, ſhowr'd downe Roſes amongſt them, leauing them there a ſcambling for the ſame. The <hi>Elizian</hi> was one that ſcambled his lap-full among the reſt: and for he thought it was his ſoueraigne Ladie <hi>Eliza,</hi> and thoſe Roſes hers, he was ſuddenly in ioy therof rapt home againe to <hi>Elizium.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>Faultes eſcaped in printing.</head>
+            <p>Pag 5. Lin 18 It ſhuts it ſelfe and as read Doe ſhut themſelues and are.</p>
+            <p>P. 8 l 3. to giue thy ſelfe read. to giue thy fleſh.</p>
+            <p>P. 16. l. to aw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>like read. aulike.</p>
+            <p>P 64. l. 1. Peacefullie aduance. read. pace-fully aduance.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:176459:5"/>
+            <head>A Fig for Fortune:</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">V</seg>Eſted in ſable vale, exild from Ioy,</l>
+               <l>I rang'd to ſeeke out a propitious place,</l>
+               <l>Where I might ſit and deſcant of annoy</l>
+               <l>And of faire Fortune, aſtered to diſgrace,</l>
+               <l>At laſt, euen in the confines of the night</l>
+               <l>I did diſcerne aloofe a ſparkling light.</l>
+            </lg>
+            <lg>
+               <l>Then ſet I ſpurres vnto my Melancholie,</l>
+               <l>A Iade wheron I had ridden many a mile,</l>
+               <l>Which leſſe then in the twinkling of an eye,</l>
+               <l>Brought me vnto that fatall lights beguile:</l>
+               <l>Where I might ſee an agonizing beaſt,</l>
+               <l>Bleeding his venym blood out at his breſt.</l>
+            </lg>
+            <lg>
+               <l>His vpper ſhape was faire-Angelicall,</l>
+               <l>The reſt belowe, all whollie Serpentine,</l>
+               <l>Cole blacke incroching vpon his pectorall,</l>
+               <l>And rudely inrowlled in a Gorgon-twine,</l>
+               <l>His eyes like Goblins ſtared heer and there,</l>
+               <l>In fell diſdayne of ſuch diſfigured geare.</l>
+            </lg>
+            <pb n="2" facs="tcp:176459:6"/>
+            <lg>
+               <l>At laſt he ſpi'd me, and ſtaring on my face,</l>
+               <l>He rear'd his mongrel-lumpe vp towards me,</l>
+               <l>Fainting and falling in his Deaths-diſgrace,</l>
+               <l>And yet enforcing ſtill more ſtabbes to die,</l>
+               <l>Then thus he vauntingly began to tell me</l>
+               <l>Of ſuch his fortitude in aduerſitie.</l>
+            </lg>
+            <lg>
+               <l>Welcome deer gueſt (quoth he) to <hi>Catoes</hi> Ghoſt,</l>
+               <l>Welcome true witneſſe of my fortitude,</l>
+               <l>Seeſt thou not how this hell-blacke ſhape almoſt</l>
+               <l>Hath quite ſubdu'd my vpper-albitude?</l>
+               <l>It is aduerſitie vpon my ſtate,</l>
+               <l>Which ſee how I reuenge it deſperate.</l>
+            </lg>
+            <lg>
+               <l>With that, as with a new ſupplyed flood</l>
+               <l>The angrie ſtreame beares quite adowne the riuer</l>
+               <l>All obſtacle with vnappeaſed mood:</l>
+               <l>So his enraged hand did fierce deliuer</l>
+               <l>Freſh death-ſtabbes to his loath'd mortalitie</l>
+               <l>Euen at the naming of aduerſitie.</l>
+            </lg>
+            <lg>
+               <l>And then in four-fold miſconſorted voice</l>
+               <l>Of Life and Death: Rage and Diſdaine, he added:</l>
+               <l>Whilom I was a man of <hi>Romes</hi> rejoyce</l>
+               <l>Whiles happy Fortune my eſtate vppropped:</l>
+               <l>But once when <hi>Caeſar</hi> ouer-topped all,</l>
+               <l>Then (loe) this mid-night ſhape did me befall.</l>
+            </lg>
+            <pb n="3" facs="tcp:176459:6"/>
+            <lg>
+               <l>Then gan I to conceipt my Cenſure-ſhip,</l>
+               <l>My Senatorie-pomp, and libertie</l>
+               <l>All baſe-ſubjected to his Tyrant-whip:</l>
+               <l>My mind was mightie againſt ſuch miſerie,</l>
+               <l>And rather would I die magnanimous</l>
+               <l>Then liue to ſee a <hi>Caeſar</hi> ouer vs.</l>
+            </lg>
+            <lg>
+               <l>It was ynough that the Theſſalian fieldes</l>
+               <l>Suckt vp the mutuall bloud-ſhed of our men,</l>
+               <l>That <hi>Pompey</hi> dies, and all the Empire yeeldes</l>
+               <l>To <hi>Caeſars</hi> dauncing Fortune, and <hi>Omen:</hi>
+               </l>
+               <l>
+                  <hi>Cato</hi> muſt die as free from ſeruitude</l>
+               <l>As he diſdaineth <hi>Caeſars</hi> altitude.</l>
+            </lg>
+            <lg>
+               <l>Yet for my Countrey is a part of me,</l>
+               <l>And it is all ſubjected to diſgrace,</l>
+               <l>Loe, that's my ſerpentine obſcuritie</l>
+               <l>For which I ſpight, and ſpit on Caeſars face,</l>
+               <l>And ſtab me with a quaint diſdaine and ange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Becauſe I will not liue in Caeſars danger.</l>
+            </lg>
+            <lg>
+               <l>Thou therefore that doeſt ſeem a dolefull wight,</l>
+               <l>View me the preſident of Cares redreſſe,</l>
+               <l>And if that Fortune be aboue thy might</l>
+               <l>Yet death is in thy power and readineſſe:</l>
+               <l>Diſdaine Misfortune then t'inſult vpon thee</l>
+               <l>Seeing that to die is all ſo faire and eaſie.</l>
+            </lg>
+            <pb n="4" facs="tcp:176459:7"/>
+            <lg>
+               <l>Death is miſfortunes monarchizing foe,</l>
+               <l>Prime Nature of Almightie fortitud,</l>
+               <l>Eternall Sanctuarie from vnreſt and woe,</l>
+               <l>Fames Arke and all our frailties Period:</l>
+               <l>Our ly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es true tuchſtone, natures offertory,</l>
+               <l>And bridge to ſweet Eliziums eternitie.</l>
+            </lg>
+            <lg>
+               <l>And as for baſe Aduerſitie, what is it?</l>
+               <l>But Gloryes graue, a coward mindes ingalley,</l>
+               <l>The carrion of our lyfe, ſuppreſſe of ſpirit,</l>
+               <l>Shadow of <hi>Ioues</hi> hate: Diſdaines obloquie,</l>
+               <l>Helles ongate, an Owliſh conuerſation,</l>
+               <l>All Ioyes deprife, and ſorrowes invndation.</l>
+            </lg>
+            <lg>
+               <l>Looke not ſo downe agaſt at what I ſay,</l>
+               <l>But with a generous erected front,</l>
+               <l>Number theſe willing woundes (my bartes defray)</l>
+               <l>To Glory ſole land-ladie of this account:</l>
+               <l>They are the Tythes I pay to eternall Fame:</l>
+               <l>There is not any one of them prophane.</l>
+            </lg>
+            <lg>
+               <l>Be not injayld to baſe Aduerſitie,</l>
+               <l>Rather ſlip out thy life at gloryes windoe,</l>
+               <l>One ſtab will ſend thee to eternity,</l>
+               <l>And rid thee quite and cleane of all thy woe.</l>
+               <l>Then there lies life-leſſe all Calamity,</l>
+               <l>Thy name and Spirit fayre amountes to glory.</l>
+            </lg>
+            <pb n="5" facs="tcp:176459:7"/>
+            <lg>
+               <l>It is not as vulgaritie eſteemes</l>
+               <l>Sincere worth to be bebleſt of Fortune,</l>
+               <l>A fickle Dame that commonlie miſdeemes</l>
+               <l>Thoſe that her fauours moſt of all importune.</l>
+               <l>Bleſſe thou thy ſelfe, and if that Fortune curſe thee,</l>
+               <l>Die in deſpight of her, and her diſcourt'ſie.</l>
+            </lg>
+            <lg>
+               <l>Oh what a baſe ingenerous ſight it is,</l>
+               <l>To ſee men crooch and pewle at her vaine Altars,</l>
+               <l>Offring their preſents to her peeuiſhneſſe</l>
+               <l>And therewithall, their necks vnto her haltars:</l>
+               <l>Be thou ſubſiſtant of thy ſelfe alonely,</l>
+               <l>And if thou canſt not liue, yet die with glorie.</l>
+            </lg>
+            <lg>
+               <l>Fie on thoſe lowtiſh growt-head lobbernowlles</l>
+               <l>That ſlander Nature with their Modicums,</l>
+               <l>I tell thee Natur's like to Marygowldes,</l>
+               <l>Largely diſplay'd to twentie thouſand Sunnes,</l>
+               <l>Which if they ceaſe to ſhine in Majeſtie,</l>
+               <l>It ſhuttes it ſelfe, and is content to die.</l>
+            </lg>
+            <lg>
+               <l>Thy Spirit is a particle of <hi>Ioue,</hi>
+               </l>
+               <l>It ſcornes indignitie and meane ſuffize,</l>
+               <l>Like as a flame, or oyle, it mounts aboue,</l>
+               <l>And take but Glory from it, and it dies:</l>
+               <l>Yet dies it not, but to indignitie,</l>
+               <l>Mounting by Death, to Fames eternitie.</l>
+            </lg>
+            <pb n="6" facs="tcp:176459:8"/>
+            <lg>
+               <l>There is no hell like to declined glorie,</l>
+               <l>Nor is <hi>Prometheus</hi> Vulture halfe ſo fell</l>
+               <l>As the ſad memorie of a happie ſtorie</l>
+               <l>To him, that in aduerſitie doeth dwell:</l>
+               <l>Ah, let him die that is not as he was,</l>
+               <l>With ending bleſſe breake he the houre-glaſſe.</l>
+            </lg>
+            <lg>
+               <l>What booteh it to liue in baſe contempt</l>
+               <l>In euer melancholie-adumbred mood?</l>
+               <l>A fable to the vulgar babblement,</l>
+               <l>A muddie ebbe after a Chryſtall flood?</l>
+               <l>Out with thy candle, let it burne no more,</l>
+               <l>When once thou art become the worlds eye-ſore.</l>
+            </lg>
+            <lg>
+               <l>And tell not me of dutie vnto life;</l>
+               <l>Nature is as indifferent to death,</l>
+               <l>Life led in joyes abandon and deprife</l>
+               <l>Is Natures deeper graue, then earth beneath:</l>
+               <l>It is not death, that which the world calles dying,</l>
+               <l>But that is death, which is all joyes denying.</l>
+            </lg>
+            <lg>
+               <l>Nature diſdaines all groſſe encountring meat</l>
+               <l>Fore-fed with <hi>Nectar,</hi> and Ambroſian ſweetes,</l>
+               <l>And Night that is the merrie dayes defeat</l>
+               <l>We ſee how Nature giues it drowſie greetes:</l>
+               <l>Now: Sleep by night is but a ſilent ſigne</l>
+               <l>How ſweet it is to die in Ioyes decline.</l>
+            </lg>
+            <pb n="7" facs="tcp:176459:8"/>
+            <lg>
+               <l>And then as is the morrowe-dawning day</l>
+               <l>A freſh re-bleſſe to Natures next awake;</l>
+               <l>So to the wretch that dies diſgrace away</l>
+               <l>Elizium is his ſecond lifes partake:</l>
+               <l>Where he ſhall triumph in eternity,</l>
+               <l>And Fame the Chanteclere of ſuch his glory.</l>
+            </lg>
+            <lg>
+               <l>Loe, I a preſident before thine eyes;</l>
+               <l>This gore imports the glorie of my Ghoſt,</l>
+               <l>Who but fore-weening Caeſars tyrannies</l>
+               <l>Fore-doom'd my ſelf in care-preuenting poſt:</l>
+               <l>Then thou that art a verie wretch indeed,</l>
+               <l>Oh, why deferreſt thou ſo long to bleed?</l>
+            </lg>
+            <lg>
+               <l>Out with that Iayle-bird of aduerſitie,</l>
+               <l>Diſdaine to liue at Natures joyleſſe leaſure:</l>
+               <l>Bale drown'd in gore and magnanimitie</l>
+               <l>Is an vpdiue to all eternall pleaſure:</l>
+               <l>Thinke what a Fame-renowned thing it is</l>
+               <l>In crimſon floods to warfare baſe de-bliſſe.</l>
+            </lg>
+            <lg>
+               <l>Deferre no longer then thy doome of death,</l>
+               <l>But Champion-like confound Calamitie,</l>
+               <l>Proſperities Satrap feares not to vnſheath</l>
+               <l>His kil-care blade gainſt fleſhes fearful frailtie:</l>
+               <l>Fleſh of it ſelfe will one day turne to duſt,</l>
+               <l>Then doome it thou thy ſelfe ſince ſo it muſt.</l>
+            </lg>
+            <pb n="8" facs="tcp:176459:9"/>
+            <lg>
+               <l>Thou would'ſt not gladly eate an Abricocke,</l>
+               <l>Or Peache vnpar'd, becauſe their rinde is bitter,</l>
+               <l>And fear'ſt thou then to giue thy ſelfe the ſtocke,</l>
+               <l>That ſo vnkindely bittereth all thy better?</l>
+               <l>Oh, off with it, and yeeld thy ſweetes to <hi>Ioue,</hi>
+               </l>
+               <l>And he will counter-ſweete thee with his loue.</l>
+            </lg>
+            <lg>
+               <l>He will imboſome thee in his embrace,</l>
+               <l>And Ioye-embalme thee in his Heauen-delights,</l>
+               <l>Thy skarres and gaſhes he will faire deface,</l>
+               <l>And ſanctifie thee with alhallowed rytes:</l>
+               <l>Thou ſhalt be as a Meteor ouerſhining</l>
+               <l>All mortall glory in her duſt declining.</l>
+            </lg>
+            <lg>
+               <l>There will we meet thee in Vermilion veſt,</l>
+               <l>I, <hi>Otho, Anniball,</hi> and all the reſt,</l>
+               <l>Fames choiſeſt Martyrs, who in Fates deteſt,</l>
+               <l>Doom'd all our ſelues to euerlaſting reſt<g ref="char:punc">▪</g>
+               </l>
+               <l>There will we magnifie thy happie woundes,</l>
+               <l>And high applaud the<g ref="char:cmbAbbrStroke">̄</g> with Crownets &amp; Crownes.</l>
+            </lg>
+            <lg>
+               <l>With that I drew out my emboldened blade,</l>
+               <l>Reſolu'd to maſſacre my loathed life:</l>
+               <l>When (loe) the Ghoſt from out my ſight did vade,</l>
+               <l>As though to tell his <hi>Ioue</hi> of my arife:</l>
+               <l>But ſuch a Sulphur ſtench hee left behind him</l>
+               <l>That I in dreade thereof ſhooke euerie lim.</l>
+            </lg>
+            <pb n="9" facs="tcp:176459:9"/>
+            <lg>
+               <l>And therwithall my ſword fell to the ground</l>
+               <l>And I miſdoubted ſome illuſion:</l>
+               <l>Such was the ſafetie that then I found</l>
+               <l>In drowſie dread, and deaths confuſion;</l>
+               <l>Prophanely ſpoken: t'was no frailties deed,</l>
+               <l>But God alonlie ſtood thee then in ſteed.</l>
+            </lg>
+            <lg>
+               <l>So then remounted on my Sable jade,</l>
+               <l>I rang'd ore craggy cliffes and deſart dales</l>
+               <l>In way-leſſe wander, and in Horrors ſhade,</l>
+               <l>One while conceipting <hi>Catoes</hi> death-auailes,</l>
+               <l>And then anon reflecting on his ſtinke,</l>
+               <l>Thus ſtrayd I moſt in dread &amp; deaths inſtinct.</l>
+            </lg>
+            <lg>
+               <l>Thriſe drew I out my dagger for to ſtab me</l>
+               <l>And then ſo oft I muſ'd why <hi>Cato</hi> ſtunke ſo,</l>
+               <l>Me thought there ſhould no ſuch diſglory be</l>
+               <l>In ſacred Ghoſts, freed from the filth of woe:</l>
+               <l>So was my moody mindes perplexed wander</l>
+               <l>Partial on lifes behalfe gainſt deadly danger.</l>
+            </lg>
+            <lg>
+               <l>Then on I rode, and riding through a dale</l>
+               <l>Hell-like adumbred with a duskie gloome,</l>
+               <l>A ſuddaine fatall blaſt did me aſſaile</l>
+               <l>And droue me to a ſecond damned doome,</l>
+               <l>Where I might ſee a more then hell-black finger</l>
+               <l>That pointed me, and ſaid: Loe yonder, yonder.</l>
+            </lg>
+            <pb n="10" facs="tcp:176459:10"/>
+            <lg>
+               <l>With that my Melancholy ſtar'd round about</l>
+               <l>And like a whirle-wind poſted to the place,</l>
+               <l>Where I might heare a voyce that roared out</l>
+               <l>Reuenge, reuenge, thy dollorous diſgrace:</l>
+               <l>And then eftſoons all in a Sulphur-flame</l>
+               <l>Appear'd vnto my ſight a ſhape of ſhame.</l>
+            </lg>
+            <lg>
+               <l>Her face was Skowl-regarding on the ground,</l>
+               <l>Her eyes like <hi>Heclas</hi> euer-ſparkling fires,</l>
+               <l>Her finger on her mouth was a dumb bound</l>
+               <l>Of her <hi>Cyclopian</hi> frets and fell deſires:</l>
+               <l>In th'other hand ſhe bare a fierie ſheafe,</l>
+               <l>And all her body was as pale as death.</l>
+            </lg>
+            <lg>
+               <l>Her haire was Snake-incurl'd <hi>Meduſa</hi>-like,</l>
+               <l>Hauing the power t'inſtone me where I ſtood:</l>
+               <l>So was I ſenceleſſe all but in diſlike</l>
+               <l>And deadly horror of ſo dread a Bug:</l>
+               <l>At laſt ſhe fretted out an angry noiſe</l>
+               <l>And thus inſpeeched it into a voice.</l>
+            </lg>
+            <lg>
+               <l>Feare not my wan and moody miſproportion,</l>
+               <l>For (I confeſſe) I am no fondlings joy,</l>
+               <l>Nor am I of a wanton diſpoſition</l>
+               <l>As is the God of Loue that idle boy,</l>
+               <l>Yet am I a joy in another kind</l>
+               <l>To ſuch as in vn-ioy moſt ioy doe find.</l>
+            </lg>
+            <pb n="11" facs="tcp:176459:10"/>
+            <lg>
+               <l>I am Reuenge, the doome of iniuries:</l>
+               <l>The Miſers refuge, and reuiue to bleſſe</l>
+               <l>Occaſions <hi>Argus,</hi> pith of Tragedies</l>
+               <l>The ſumme of pollicie in all diſtreſſe:</l>
+               <l>Wrathes thunder-bolt, and triumph ouer thoſe</l>
+               <l>That in their jollitie work others woes.</l>
+            </lg>
+            <lg>
+               <l>Th'injurious Gallant in his Commick-braue</l>
+               <l>I agonize with vnexſpected bale,</l>
+               <l>Becauſe he ſhall not thinke that in the graue</l>
+               <l>Lies nought but impotence and deaths auaile;</l>
+               <l>I'le ſhew him that the worme hath power to moue,</l>
+               <l>And none ſo lowe but may amount aboue.</l>
+            </lg>
+            <lg>
+               <l>There is a Phoenix of Aduerſitie</l>
+               <l>That faire reſults from her incinderment,</l>
+               <l>And dares to braue with an vndaunted eie</l>
+               <l>Proſperities ſhine, &amp; brighteſt blandiſhments</l>
+               <l>It is Reuenge, t'is I can ſtare it out,</l>
+               <l>And make it by diſgrace the Miſers flout.</l>
+            </lg>
+            <lg>
+               <l>I rear'd <hi>Corelian</hi> from his exile ſtate</l>
+               <l>To triumph ouer <hi>Romes</hi> ingratitude,</l>
+               <l>And <hi>Caeſar</hi> I did whollie animate</l>
+               <l>To down with <hi>Pompeys</hi> ſcornfull altitude,</l>
+               <l>His ſute deni'd him by the Senate-houſe,</l>
+               <l>Did cauſe me make him <hi>Rome</hi>-Emperious.</l>
+            </lg>
+            <pb n="12" facs="tcp:176459:11"/>
+            <lg>
+               <l>Of latter dayes a <hi>Bourbon</hi> in diſgrace</l>
+               <l>I arm'd againſt his Lieges injurie,</l>
+               <l>And gaue him victorie at <hi>Pauia</hi>-chace</l>
+               <l>Where he beheld him in captiuitie:</l>
+               <l>What though he were a Traitor in ſo doing,</l>
+               <l>Tis ſtatelie done to ouer-top a King.</l>
+            </lg>
+            <lg>
+               <l>To be faire Fortunes euer Carpet-darling</l>
+               <l>Is femall glorie: But Reueng'd diſgrace</l>
+               <l>That's truly Maſculine, and rich triumphing:</l>
+               <l>Al peace-content is too too cheap and baſe:</l>
+               <l>What manhood is it ſtill to feed on Chickins</l>
+               <l>Like infant nurſe-boys in nice Fortunes kitchins?</l>
+            </lg>
+            <lg>
+               <l>Giue me the man that with vndaunted ſperit</l>
+               <l>Dares giue occaſion of a Tragedie:</l>
+               <l>And be content for his more after-merit</l>
+               <l>To be downe beaten from felicity:</l>
+               <l>To th'end that with a fierce amount he may</l>
+               <l>Re-bleſſe himſelfe in ſpight of Fortunes nay.</l>
+            </lg>
+            <lg>
+               <l>Tis braue to plunge adowne into the deep</l>
+               <l>And ſo vp-bound againe aboue the waue,</l>
+               <l>To be continually a mountain-ſheep</l>
+               <l>Is Cockrell-like, it is a dung-hill braue:</l>
+               <l>The crauin Cocke is hartleſſe from his hill,</l>
+               <l>Shame to be ſo that haſt a manly will.</l>
+            </lg>
+            <pb n="13" facs="tcp:176459:11"/>
+            <lg>
+               <l>To be depoſ'd from bliſſe by injurie,</l>
+               <l>Is double glorie to remount to it,</l>
+               <l>Nor is thy title loſt to dignitie</l>
+               <l>Vnleſſe ſuppreſſe of ſpirite forfeit it:</l>
+               <l>Misfortunes power cannot foyle thy right,</l>
+               <l>Doe thou but beare a minde in her deſpight.</l>
+            </lg>
+            <lg>
+               <l>We cannot ſay that man is ouercome</l>
+               <l>That ſtill beares vp his arme againſt his foe,</l>
+               <l>Nor that he is ſincerely out-run</l>
+               <l>Whom the Corriuals trip doth ouerthrow:</l>
+               <l>VVhat ere is loſt with fore-wits vnpreuention,</l>
+               <l>Win it againe with after-wits contention.</l>
+            </lg>
+            <lg>
+               <l>This humane fate, ſometime to ſlip and fall,</l>
+               <l>But to ingrouell in durt is beaſtlie baſe:</l>
+               <l>To riſe againe, oh that is Iouiall,</l>
+               <l>Or els reuenge to death the downe-diſgrace:</l>
+               <l>Therefore, thou haſt a ſpirit of deſpight,</l>
+               <l>As well as in good hap to take delight.</l>
+            </lg>
+            <lg>
+               <l>The gallant man vnhorſt amidſt his foes</l>
+               <l>Fightes to the death his lateſt wrath away,</l>
+               <l>And when he can no more: with mops and mowes</l>
+               <l>He floutes both them, and Death, and Deſtinie:</l>
+               <l>So if not Victor, yet vnvanquiſhed</l>
+               <l>He dies to euerlaſting liuelihed.</l>
+            </lg>
+            <pb n="14" facs="tcp:176459:12"/>
+            <lg>
+               <l>Be not as is the coward Scorpion</l>
+               <l>That rounded all about with aſhie embers</l>
+               <l>Diſpaires and dies in ſelf-deſtruction</l>
+               <l>Renting with fierce enrage his venym members:</l>
+               <l>But if that <hi>Ioue</hi> nill ayd thy fortitude</l>
+               <l>Downe to all <hi>Acharon,</hi> and the Furie brood.</l>
+            </lg>
+            <lg>
+               <l>Hell holdes in honor the braue minded man</l>
+               <l>That knowes the price and value of his head,</l>
+               <l>That meaſures not Renowne by inch or ſpan,</l>
+               <l>But by th'eternitie of <hi>Ioues</hi> Godhead,</l>
+               <l>That skornes to brooke baſe infelicitie,</l>
+               <l>Or pocket vp degraded dignitie.</l>
+            </lg>
+            <lg>
+               <l>And haply <hi>Ioue</hi> himſelfe ſupplants thy ſtate</l>
+               <l>To ſee how thou canſt ſcamble vp againe,</l>
+               <l>And ſcuffle manly with malignant fate</l>
+               <l>To a redoubled glories rich attaine:</l>
+               <l>Then cheerly (man) inhearten all thy ſperites</l>
+               <l>And dead Reuenge thy miſeries demerites.</l>
+            </lg>
+            <lg>
+               <l>Loe, I thy Aduocate vnto the Hagges</l>
+               <l>Will ſtill importune thy Proſperitie,</l>
+               <l>And be at hand with poiſon, and with dagges</l>
+               <l>To execute each plotted tragedie:</l>
+               <l>Misfortune <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all not ſcoffe at thy confuſion,</l>
+               <l>If hell and I befriend thee in coniunction.</l>
+            </lg>
+            <pb n="15" facs="tcp:176459:12"/>
+            <lg>
+               <l>Lay but thy hand vpon thy conſcience,</l>
+               <l>And faire in-vow mee in an earneſt ſpirit,</l>
+               <l>So ſhalt thou compaſſe Tragick conſequence</l>
+               <l>On all thy foes that now ſo frollick it.</l>
+               <l>They ſhall no longer feaſt vpon thy frets</l>
+               <l>Nor regiſter thy woes in their banquets.</l>
+            </lg>
+            <lg>
+               <l>Thou ſhalt eniowle them one againſt another</l>
+               <l>With hoſtill jealouſie, and dead debate:</l>
+               <l>I tell thee (man) all friendſhip is vnſure</l>
+               <l>Founded vpon anothers downe eſtate:</l>
+               <l>Nor ioyes he long againſt Reuenges doome,</l>
+               <l>That wrong in-ſtates him in anothers roome.</l>
+            </lg>
+            <lg>
+               <l>Heauen is the Arbiter, and wils it ſo,</l>
+               <l>I and the Furies are the inſtruments</l>
+               <l>To act that iuſtice in all tragicke woe,</l>
+               <l>Now is it in this caſe our good intents</l>
+               <l>To joyne with vs thy manuall act heerin</l>
+               <l>That more then priſtin glory thou maiſt win.</l>
+            </lg>
+            <lg>
+               <l>But ſay thou winne not priſtin glorie by it</l>
+               <l>Yet ſhalt thou ſee thy foes in downe diſgrace,</l>
+               <l>Thy ſelfe ſhalt act it, ſuch ſhall be thy merit,</l>
+               <l>And ſuch thy glorie in a higher place:</l>
+               <l>What greater glorie can betide the vale</l>
+               <l>Then force the Mountain-top adowne to fall?</l>
+            </lg>
+            <pb n="16" facs="tcp:176459:13"/>
+            <lg>
+               <l>So ſhall thy glorie not be loſt, but left,</l>
+               <l>Yea loſſe to them that all ſo dearly buy it,</l>
+               <l>When thou ſhalt Phoenix-like of bliſſe bereſt</l>
+               <l>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe from thy ruines to a higher merit:</l>
+               <l>Degraded from a puppit Commicke-ſtage</l>
+               <l>To act the ſtatelie Tragick perſonage.</l>
+            </lg>
+            <lg>
+               <l>Chang'd to a faire enfiered Salamander</l>
+               <l>Breathing Reuenges bright &amp; ſacred flames,</l>
+               <l>Which high inſpirits men to lofty matter</l>
+               <l>In quaint diſdaine of aulicke infant games;</l>
+               <l>Games of the bodie, follies of the minde,</l>
+               <l>Oh, how t'is baſe to liue ſo like a Hinde.</l>
+            </lg>
+            <lg>
+               <l>Nature hath giuen you male &amp; female willes,</l>
+               <l>The one wherwith to couet meriments,</l>
+               <l>The other to deteſt all aduerſe ils,</l>
+               <l>Now is almightie <hi>Ioues</hi> great woonderments</l>
+               <l>More in his Thunder-boltes then in his ſweetes,</l>
+               <l>To ſhew Reuenge more woorth then Pleaſures greets.</l>
+            </lg>
+            <lg>
+               <l>Then arme thy ſelfe Reuenges Champion,</l>
+               <l>To bandie away thy foes, and all diſgrace</l>
+               <l>VVith polliticke diſsimulation</l>
+               <l>Of contrarie language, and contrary face:</l>
+               <l>As the Camelion changeth ſtill his hue</l>
+               <l>VVith euery obiect cullor: ſo change thou.</l>
+            </lg>
+            <pb n="17" facs="tcp:176459:13"/>
+            <lg>
+               <l>So maiſt thou cloſe Camelion-like conceale</l>
+               <l>Thy tragicke ſhape of Horror and Reuenge,</l>
+               <l>Whiles they miſdoubting not thy falſe reueale</l>
+               <l>Are caught vnwares like Woodcocks in a ſprenge,</l>
+               <l>Such is the honour of Aduerſitie,</l>
+               <l>With ſleightes to vndermine Proſperitie.</l>
+            </lg>
+            <lg>
+               <l>Be to thy oath, as th' Ape is to his blocke,</l>
+               <l>Sometimes ſticke to it, ſometimes flit from it</l>
+               <l>As pregnant pollicy may thee prouoke:</l>
+               <l>T'is foole-ſincerity, and want of wit</l>
+               <l>To make a pot to breake thy head withall,</l>
+               <l>Or rather not to breake it firſt of all.</l>
+            </lg>
+            <lg>
+               <l>Vſe Friend and Foe, and Neuter all alike,</l>
+               <l>Onlie as inſtrumentall implements</l>
+               <l>To thy deſigne; thy aymed ſtroke to ſtrike:</l>
+               <l>And fee them but with ayery complements:</l>
+               <l>That done, and thy affaire effected,</l>
+               <l>Deſtroy them all for feare thou be detected.</l>
+            </lg>
+            <lg>
+               <l>Dead dogges barke not, nor ſtands it with thy honour</l>
+               <l>To be vpbrayded with a curteſie;</l>
+               <l>Much leſſe to be employd in like deuoir</l>
+               <l>According <hi>Quid pro Quoes</hi> ſeruilitie:</l>
+               <l>Such is the ſumme of perfect policie</l>
+               <l>To worke ſecurely with Vulgaritie.</l>
+            </lg>
+            <pb n="18" facs="tcp:176459:14"/>
+            <lg>
+               <l>Be cloſe, and iealous in each action</l>
+               <l>For that cloſe dealing is good Speeds aſſura<g ref="char:cmbAbbrStroke">̄</g>ce;</l>
+               <l>And Iealouſie's the Sentinell of Caution;</l>
+               <l>And bear thou ſtill in mind this circumſtance;</l>
+               <l>If all good fortune, and aduiſe ſhould faile thee</l>
+               <l>To haue a ſtarring hole for after ſafetie.</l>
+            </lg>
+            <lg>
+               <l>T'was meger Prudence in the antique Sages</l>
+               <l>That but with Goodnes could recure an Euill:</l>
+               <l>Giue me the man that with wittes pollices</l>
+               <l>Can Saint a Deuill with another Deuil:</l>
+               <l>That can ſo ſhift, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffle the cards in fiſt,</l>
+               <l>As turne vp whatſoeuer Trump he lift.</l>
+            </lg>
+            <lg>
+               <l>Tis Heauens attaine to ſend thy foes to Hell</l>
+               <l>With mutuall murthers in Seditions field:</l>
+               <l>The vpper Buckets fall into the well</l>
+               <l>The lowers faire amount we ſee doth yeeld:</l>
+               <l>Such is the merit of Reuenges deed,</l>
+               <l>With others wrack to work thine own good ſpeed.</l>
+            </lg>
+            <lg>
+               <l>At leaſt to die in well appeaſed wrath</l>
+               <l>And in ſuruiue of all thine enemies</l>
+               <l>Is ſtately dying: t'is faire lie downe and laugh,</l>
+               <l>And an vp-riſe to <hi>Ioues</hi> benignities,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lizium</hi> and Fame in after ages,</l>
+               <l>Reuenges bleſſed Rightes and Appennages.</l>
+            </lg>
+            <pb n="19" facs="tcp:176459:14"/>
+            <lg>
+               <l>Then come, imbrace me with a firme aſſent</l>
+               <l>And thinke no idle voyce ſollicits thee;</l>
+               <l>I tell thee (man) in thy arbitrement</l>
+               <l>Lies all thy glorie, and felicitie:</l>
+               <l>I'le be thy hand-maid heer in earth belowe,</l>
+               <l>The reſt aboue great <hi>Ioue</hi> he will beſtow.</l>
+            </lg>
+            <lg>
+               <l>So ſayd, ſhe rear'd her skowle down-looke on</l>
+               <l>And vagrantlie regarding round about</l>
+               <l>In Period-pawſe; At laſt as one beſtraught</l>
+               <l>She ſtar'd, and trembled, and began to powt</l>
+               <l>And ſuddenly ſhe vaniſht out of ſight</l>
+               <l>Becauſe now in the Eaſt it dawn'd day-light.</l>
+            </lg>
+            <lg>
+               <l>Euen ſo (quoth I) is it Reuenges guize</l>
+               <l>To be in force by Night, be gone by Day?</l>
+               <l>Such is not the inſtinct of Paradize,</l>
+               <l>God graunt it be no Plutonicke affray:</l>
+               <l>Oh what it is to be a mortall man</l>
+               <l>Subiect to all the guiles and ſleights of Satan.</l>
+            </lg>
+            <lg>
+               <l>Yet for her ſpeech was conſonant to Nature,</l>
+               <l>I wiſht ſh'had been an Oracle of truth;</l>
+               <l>So credulous is Angers moodie vigure</l>
+               <l>When once it is in-Caelared in youth:</l>
+               <l>And hand in-handed with a quaint Diſdaine</l>
+               <l>Iniurious diſglorie to ſuſtaine.</l>
+            </lg>
+            <pb n="20" facs="tcp:176459:15"/>
+            <lg>
+               <l>Yea what is not the miſer apt to doe,</l>
+               <l>What not beleeue to mittigate his euill?</l>
+               <l>Well may he faine a patient outward hue,</l>
+               <l>But not exile his inward damned deuill,</l>
+               <l>The Vultu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of deſpite that neuer dies</l>
+               <l>But rents and teares his heart in rauin-wiſe.</l>
+            </lg>
+            <lg>
+               <l>Now Chanteclere the vigill of the night</l>
+               <l>Crew broad day light: when <hi>Titan</hi> in the Eaſt</l>
+               <l>Peece-meale appearing in his priſtin bright</l>
+               <l>Broad-waked euery creature, man and beaſt,</l>
+               <l>Ech muſick-bird be bleſſing his amount</l>
+               <l>Both in the humble vale and haughtie mount.</l>
+            </lg>
+            <lg>
+               <l>When (loe) my jade vnſprighted, and vnnighted,</l>
+               <l>Rag'd and engag'd himſelfe to all aduenture</l>
+               <l>Ore hedge, and ditch, and flood, ſo fell affrighted</l>
+               <l>He was to ſee the Sunne, ſo ſhone a creature:</l>
+               <l>All as the Tench in waterles deſpaire</l>
+               <l>Beateth himſelfe to death in ſpight of ay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+            </lg>
+            <lg>
+               <l>So on I haſted at my jades beheſt,</l>
+               <l>As whilom <hi>Phaeton</hi> in his skyey carte,</l>
+               <l>Weake (God he knowes) to rule ſo fierce a beaſt,</l>
+               <l>Deadly feare-frighted both in heart and arte:</l>
+               <l>But whome our Lords ſafe prouidence beſpeedeth,</l>
+               <l>No humaine power of heart or arte he needeth.</l>
+            </lg>
+            <pb n="21" facs="tcp:176459:15"/>
+            <lg>
+               <l>At laſt in proceſſe of an ouer-tire</l>
+               <l>My moody beaſt ſtood ſtil in palſie-wiſe,</l>
+               <l>Trembling and fainting in a daunted ire,</l>
+               <l>(Such is the end of Rages ryotize:)</l>
+               <l>Then had I leaſure for to looke about me,</l>
+               <l>And (loe) I ſpide a Rock in ſhining glorie.</l>
+            </lg>
+            <lg>
+               <l>I hy'd me to it with a pleaſing pace,</l>
+               <l>And yet not pleaſant, for t'was all to ſlow:</l>
+               <l>So flight is Melancholie to darke diſgrace</l>
+               <l>And deadly drowſie to a bright good morrow;</l>
+               <l>Yet on I march'd, and marueil'd at the ſight,</l>
+               <l>I neuer in all my life ſaw thing ſo bright:</l>
+            </lg>
+            <lg>
+               <l>As more and more I neer'd vnto the place</l>
+               <l>So by degrees my Melancholy fainted,</l>
+               <l>When (loe) anon with a religious pace</l>
+               <l>A ſnow-white I ennet towards me aduanced:</l>
+               <l>His name was <hi>Good deſire,</hi> his ſaddle greene</l>
+               <l>Was <hi>Reuerend Solace</hi> of a godly ſpleen.</l>
+            </lg>
+            <lg>
+               <l>Whereat my jade affrighted and deſpighted</l>
+               <l>Sped all to naught as myſt before the Sonne:</l>
+               <l>When I eftſoons internallie delighted</l>
+               <l>Was rapt by <hi>Good deſire</hi> vnto <hi>Deuotion:</hi>
+               </l>
+               <l>A penall place, yet parcell of the rock,</l>
+               <l>And brighter then the Noony Zodiack.</l>
+            </lg>
+            <pb n="22" facs="tcp:176459:16"/>
+            <lg>
+               <l>There kneel'd a reuerend Sophie all in teares</l>
+               <l>With needle-pointed Diſcipline correcting</l>
+               <l>His Fleſhes frailtie: Oh how he beſmears</l>
+               <l>The place with penall bloud, and blubbering:</l>
+               <l>His hart was wholly fixt on Chriſt his Paſſion,</l>
+               <l>So ſhew'd his Crucifixe-contemplation.</l>
+            </lg>
+            <lg>
+               <l>Before him was a Deaths-head full of wormes,</l>
+               <l>The picture of a Graue, and an Hower-glaſſe,</l>
+               <l>
+                  <hi>A</hi> map of Doomſday, and Hell in fearfull formes,</l>
+               <l>And Heauen figur'd all in Saintlie ſollace:</l>
+               <l>His pale and megre countenance areeded</l>
+               <l>His ſpare poor fare, and how hard he bedded.</l>
+            </lg>
+            <lg>
+               <l>Standing behind him, he was in a trance,</l>
+               <l>And I betooke my Eie to a ſteddie gaze,</l>
+               <l>My Mind to an amaze at ſo great ſuffrance,</l>
+               <l>So penall ſuffrance in ſo bright a place,</l>
+               <l>And now I ſee (ſaid I) there is a bliſſe</l>
+               <l>Euen in Aduerſitie what ere it is.</l>
+            </lg>
+            <lg>
+               <l>And thus aſide I argued the caſe:</l>
+               <l>In place ſo bright what meane theſe drearements?</l>
+               <l>A heauie caſe deſerues a dolefull place</l>
+               <l>Since bale and bleſſe are aduerſe Complements:</l>
+               <l>And yet the Glowe-worme in the darkeſt night</l>
+               <l>Though blacke it be, ſhines foorth a ſtarry bright.</l>
+            </lg>
+            <pb n="23" facs="tcp:176459:16"/>
+            <lg>
+               <l>
+                  <hi>Cato</hi> and Reuenge were blacke, and both to blame</l>
+               <l>Th' one in ſulphure ſtenche, th' other in Lights abhorr,</l>
+               <l>And Melancholye was the Iade of ſhame</l>
+               <l>That darkeling brought me to that dubble dorr;</l>
+               <l>A better horſe I hope hath brought me hether</l>
+               <l>For both the place is bright, and tis fayr weather.</l>
+            </lg>
+            <lg>
+               <l>Long haue I rang'd to finde a place of eaſe</l>
+               <l>Whear I may paſſe away my penſiue playntes,</l>
+               <l>And happly if this be now that place of peace</l>
+               <l>Heer reſt I euer in my woes attayntes:</l>
+               <l>Heer in this Caue, and in this ſable ſhrowde</l>
+               <l>Dye I a Caytiffe vnder Fortunes clowd.</l>
+            </lg>
+            <lg>
+               <l>This aged man and I will both together</l>
+               <l>Complaine in common our calamytie;</l>
+               <l>That haply whiles we ſtriue t'outplaine each other</l>
+               <l>Suche our ambition may ſwage our miſerie,</l>
+               <l>Or both at once, may cracke as ouerſtrained,</l>
+               <l>Ambitious dying is a glorie gained.</l>
+            </lg>
+            <lg>
+               <l>But (well I wot) thou wrong'ſt this holy place</l>
+               <l>By miſ-conſtructing it to care and bale,</l>
+               <l>T'is puddle ſacrilege ſo to diſgrace</l>
+               <l>The grace of God, through errors rude miſpriſall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>What though the man doe ſeeme diſconſolate,</l>
+               <l>Somewhat it is doth thee exhilerate.</l>
+            </lg>
+            <pb n="24" facs="tcp:176459:17"/>
+            <lg>
+               <l>For why, I felt my ſpirit all poſſeſt,</l>
+               <l>With a reuiued hope to happineſſe;</l>
+               <l>It was the Grace of God in my vnreſt</l>
+               <l>That in-lie cheer'd me vp to future bleſſe,</l>
+               <l>Deer gift of God, the Character of life</l>
+               <l>And heauenly make-peace of our ghoſtly ſtrife.</l>
+            </lg>
+            <lg>
+               <l>It is the Raye, and Speech of heauen to man,</l>
+               <l>The Rainbowe-pledge of Gods beneuolence,</l>
+               <l>The Limbecke of our juſtice, and the Fan</l>
+               <l>That winnoweth ſinne away from innocence:</l>
+               <l>Prime moo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, and efficient cauſe of good</l>
+               <l>To all that are redeem'd with Chriſt his blood.</l>
+            </lg>
+            <lg>
+               <l>Whiles thus with infant zeale I did applaud</l>
+               <l>The in-come grace of God into my heart</l>
+               <l>In full deteſt of fore-affected fraud,</l>
+               <l>Loe, now this penall Sage began to ſtart</l>
+               <l>From out his trance, and with a heauenlie voyce<g ref="char:punc">▪</g>
+               </l>
+               <l>And armes a croſſe, he bid his ſoule rejoyce.</l>
+            </lg>
+            <lg>
+               <l>Reioyce (quoth he) at this eternall truth,</l>
+               <l>The man is bleſt that for Gods juſtice ſake</l>
+               <l>Suſtaines with Patience reproch and ruth,</l>
+               <l>Our Lord hath promiſt that he wil partake</l>
+               <l>His heauen to him: His name be praiſ'd therfore,</l>
+               <l>And ſo he kiſt the Croſſe, and ſaid no more.</l>
+            </lg>
+            <pb n="25" facs="tcp:176459:17" rendition="simple:additions"/>
+            <lg>
+               <l>With that my heart exulted in my breaſt,</l>
+               <l>As faire preſaging weale vnto my woe;</l>
+               <l>For why I was not vulgarlie diſtreſt</l>
+               <l>But, for a cauſe that bore an honeſt ſhowe,</l>
+               <l>Yet for my frailtie was impatient</l>
+               <l>I long'd for ſpeedy death or ſolagement.</l>
+            </lg>
+            <lg>
+               <l>Then ſtept I to that man of Myſteries</l>
+               <l>With carefull Complement leaſt to offend,</l>
+               <l>When he eftſoons with reuerend ariſe</l>
+               <l>Did recomplie me like a perfect friend:</l>
+               <l>The teares of joy that trill'd adowne his chin</l>
+               <l>Did ſweare what true affection was within.</l>
+            </lg>
+            <lg>
+               <l>And laſtly he thus embracingly beſpake me,</l>
+               <l>Welcome (<hi>Elizian</hi>-man) a thouſand-fold</l>
+               <l>More deere and ſhone to <hi>Catechryſius</hi> eye</l>
+               <l>Then all the pleaſant pride of Pearle or Gold:</l>
+               <l>Rare, yea all too rare are now adayes</l>
+               <l>
+                  <hi>Elizas</hi> ſubjectes ſeen to paſſe this wayes.</l>
+            </lg>
+            <lg>
+               <l>Belike yee are a Paradized people</l>
+               <l>That ſo contain your ſelfes in home-delights,</l>
+               <l>As though that only vnder your ſteeple</l>
+               <l>And no wher els were all May-mery Rights:</l>
+               <l>A bleſſed people ye are, if it be ſo</l>
+               <l>And yet me thinkes thou ſeem'ſt a man of woe.</l>
+            </lg>
+            <pb n="26" facs="tcp:176459:18"/>
+            <lg>
+               <l>Wherto I anſwered all with humble thanks:</l>
+               <l>Firſt, that I was the man he tooke me for</l>
+               <l>Bred and brought vp on fayre <hi>Elizas</hi> bankes,</l>
+               <l>Next, did I largely ſhew him furthermore</l>
+               <l>How bleſſedly we liue, as hee had heard</l>
+               <l>Vnder <hi>Elizas</hi> peacefull power and guard.</l>
+            </lg>
+            <lg>
+               <l>And as for my peculiar diſtreſſe,</l>
+               <l>I tolde him ſo I ſeem'd, and ſo I was</l>
+               <l>The Rag of Fortune: Badge of baſe debleſſe,</l>
+               <l>The Spunge of care, a broken Hower-glaſſe:</l>
+               <l>The Finger-man of ſhame, and Obloquie</l>
+               <l>Downly degraded from Felicitie.</l>
+            </lg>
+            <lg>
+               <l>I told him of my dreary iournement</l>
+               <l>On moodie Melancholie; and how I ſped</l>
+               <l>With <hi>Cato,</hi> and Reuenges babblement,</l>
+               <l>And how, along the Deſart as I fled</l>
+               <l>I met with <hi>Good Deſire</hi> a goodly Steed</l>
+               <l>That brought me thether in my ghoſtly need.</l>
+            </lg>
+            <lg>
+               <l>I would haue told him more of my arange</l>
+               <l>Euen all the verie conſcience of my caſe,</l>
+               <l>The cauſe of ſuch my reprobate exchange</l>
+               <l>From bleſſe to bale: &amp; how fro<g ref="char:cmbAbbrStroke">̄</g> place to place</l>
+               <l>Bownd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe in care, I rang'd to bownd my Fate,</l>
+               <l>Content to die: but not die deſperate.</l>
+            </lg>
+            <pb n="27" facs="tcp:176459:18"/>
+            <lg>
+               <l>But he eftſoones preuented me, and ſaid:</l>
+               <l>Oh happie thou, if ſo thou knew'ſt thy hap,</l>
+               <l>I tell thee (man) thou art right <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aire apaid</l>
+               <l>Exil'd from <hi>Mammon</hi> into <hi>Ieſus</hi> lap:</l>
+               <l>Come ſit we downe, and I will ſhew thee how</l>
+               <l>In this diſtreſſe, thou mayſt nor breake, nor bow.</l>
+            </lg>
+            <lg>
+               <l>So downe we ſate: my heart was feſtiuall</l>
+               <l>My care was eager-liquoriſh to embaite</l>
+               <l>Good <hi>Catechryſius</hi> his Cordiall:</l>
+               <l>Who then with eies to heauen eleuate</l>
+               <l>And croſſe-laid armes did vow ſyncerely</l>
+               <l>All loue, and truth in what he meant to ſhew me.</l>
+            </lg>
+            <lg>
+               <l>And then (quoth he) deare Engliſhman, ſuppoſe</l>
+               <l>Me not vnciuill t'interrupt thy tale,</l>
+               <l>For in our Lord I well aread thy woes</l>
+               <l>And Charitie hies me to recure them all:</l>
+               <l>Now all is but the action of the Mind,</l>
+               <l>That rectifi'd, the reſt is all but wind.</l>
+            </lg>
+            <lg>
+               <l>Know then, thow art no better then a man</l>
+               <l>Natur'd indifferently, to weale or woe,</l>
+               <l>Who ere he be that's borne of a woman</l>
+               <l>Is firſt juſt nothing, next an <hi>Embrio,</hi>
+               </l>
+               <l>Then borne into the world in impotence</l>
+               <l>Poore intereſt to future Excellence.</l>
+            </lg>
+            <pb n="28" facs="tcp:176459:19"/>
+            <lg>
+               <l>Nay borne in ſable ſinne to Gods offence,</l>
+               <l>Nipt in the bloſſome by the blaſt of Hell,</l>
+               <l>Spur-gall'd of <hi>Adam</hi> both in ſoule and ſence</l>
+               <l>And hodge podged between a man &amp; Deuel,</l>
+               <l>A fardle of frailties doom'd vnto damnation</l>
+               <l>So ſore we haue incurr'd Gods indignation.</l>
+            </lg>
+            <lg>
+               <l>If theſe be titles of felicitie,</l>
+               <l>Ah, poore felicitie, vnpleaſant Pride:</l>
+               <l>Rooted in hell, brancht in mortalitie</l>
+               <l>And round imbark'd with ſin on euerie ſide:</l>
+               <l>Nor are we thus diſgrac'd but of our ſelfes</l>
+               <l>For firſt we eate the Apple of all theſe helles.</l>
+            </lg>
+            <lg>
+               <l>We might haue choſen in <hi>Adams</hi> Libertie</l>
+               <l>Whether t'haue eate that Apple yea or no,</l>
+               <l>But needs we would aduenture: And wot you why?</l>
+               <l>Forſooth of Pride both good and bad to know:</l>
+               <l>So ſlunke from vs the glorie and grace of God</l>
+               <l>Leauing vs quite to our ſelfe breeching-rod</l>
+            </lg>
+            <lg>
+               <l>Heerhence we couet counterfeit content,</l>
+               <l>Sublime mundanitie, and our Fleſhes eaſe,</l>
+               <l>Rating the traſh of earth true ſolagement</l>
+               <l>And euery toy of price our ſence to pleaſe:</l>
+               <l>Such is our frailtie, and yet we ſee it not</l>
+               <l>So to ſubject vs to ſo ſeruile Lot.</l>
+            </lg>
+            <pb n="29" facs="tcp:176459:19" rendition="simple:additions"/>
+            <lg>
+               <l>And ſuch the matter of thy diſcontent,</l>
+               <l>Becauſe thou ouer-prizeſt Fleſhes ſence,</l>
+               <l>Rating the world at all too high a rent</l>
+               <l>Wheras it is but duſt and Gods offence:</l>
+               <l>The <hi>Mammon</hi> of iniquitie in Scripture phraſe</l>
+               <l>And but a meere Crocadyle-amaze.</l>
+            </lg>
+            <lg>
+               <l>Conceipt thy ſelfe no better then thou art,</l>
+               <l>A ſorie Iourney-man from birth to death</l>
+               <l>And all this world but matter of vndeſart</l>
+               <l>And a meere momentarie traſh-bequeath:</l>
+               <l>Death doomes all Fleſh at laſt, and Fleſh-affaires</l>
+               <l>Be it Fleſhes joyes, or Fleſhes ſeruile cares.</l>
+            </lg>
+            <lg>
+               <l>Bleſſe being the perfect Counterpane of good</l>
+               <l>This world is not of worth to correſpond it</l>
+               <l>It being but traſh ore-flowne with Frailties flood</l>
+               <l>And deep indown'd from heauens fellowſhip:</l>
+               <l>Then vp to heauen amount thy true ambition</l>
+               <l>And as for earth out-care it in contrition.</l>
+            </lg>
+            <lg>
+               <l>Not to diſpaire and die as <hi>Cato</hi> told thee,</l>
+               <l>For that is baſe Puſillanimitie</l>
+               <l>And Natures moſt vnhallowed infamie,</l>
+               <l>Treaſon to God, and fell diſloyaltie</l>
+               <l>So to betray his Fort and Character</l>
+               <l>To ſelfe-miſdoome, and drearie diſaſter.</l>
+            </lg>
+            <pb n="30" facs="tcp:176459:20"/>
+            <lg>
+               <l>We ought not cancell Gods eternall doome</l>
+               <l>Vn-labelling our life from his faire Charter,</l>
+               <l>For ſuch is diffidence in his holidoome</l>
+               <l>And prowd in-officing vs in his affaire:</l>
+               <l>Nor can we kill Calamitie by death</l>
+               <l>For he is juſt in earth, and hell beneath.</l>
+            </lg>
+            <lg>
+               <l>Thou canſt not flit from his almightie doome</l>
+               <l>He being th' Arbiter of all, and nothing:</l>
+               <l>Who gaue thee Eſſence out of <hi>Vacuum</hi>
+               </l>
+               <l>Can paine thy aſhes all in earth repoſing:</l>
+               <l>Well maiſt thou ſhift his anger into grace</l>
+               <l>But not depriue thee from his heauenly face.</l>
+            </lg>
+            <lg>
+               <l>As vaine it is to thinke Reuenges deed</l>
+               <l>Can counter-doome thy bale to bleſſedneſſe,</l>
+               <l>The power of Fleſh being but a rotten reed</l>
+               <l>And ſelfely inclined vnto all diſtreſſe:</l>
+               <l>Then ſince we are ſo wretched of our ſelfes</l>
+               <l>Add worſe to yll doth but encreaſe our helles.</l>
+            </lg>
+            <lg>
+               <l>Such is Reuenge: It is a haggard yll,</l>
+               <l>A Luciferiall ranke vncharitie:</l>
+               <l>The venym, and blacke-<hi>Santus</hi> of our will</l>
+               <l>Vnreaſons rage; ſpawne of Impietie,</l>
+               <l>Breath of Deſpaire, Prime-brat of Enuies brood,</l>
+               <l>And all good Natures Satyr-<hi>Antipode.</hi>
+               </l>
+            </lg>
+            <pb n="31" facs="tcp:176459:20"/>
+            <lg>
+               <l>Reuenges arme rear'd vp againſt the Foe</l>
+               <l>Aimes to defeat God of his intereſt</l>
+               <l>Who clauſually reſeru'd that worke of woe</l>
+               <l>Vnto his owne judiciall beheſt;</l>
+               <l>Thou art a man, and once didſt ſucke thy mother,</l>
+               <l>Thou canſt not judge thy ſelfe, much leſſe another.</l>
+            </lg>
+            <lg>
+               <l>And what know'ſt thou whether haply for thine owne</l>
+               <l>Or for thy Predeceſſors ſinnes thou ſuffereſt,</l>
+               <l>God oft transfers his indignation</l>
+               <l>From the offending Eaſt to th'ending Weſt.</l>
+               <l>Or whether it be to trie thy patience,</l>
+               <l>And fluſh the more thy good obedience.</l>
+            </lg>
+            <lg>
+               <l>If it be for thy ſinnes, oh happy thou</l>
+               <l>That art ſo temporally corrected:</l>
+               <l>Such is Gods mercy, not his Iuſtice-blow,</l>
+               <l>A worſer doome is to thy euill indebted:</l>
+               <l>For God being good in all infinitie</l>
+               <l>Such is thy ſinnes, and hels affinitie.</l>
+            </lg>
+            <lg>
+               <l>And if for thy fore-fathers treſpaſſes,</l>
+               <l>T'is braue to be ſo good a Sacrifice,</l>
+               <l>God earſt to expiate thy amiſſes</l>
+               <l>Being a preſident before thine eies</l>
+               <l>Of willing death; wee are not borne only</l>
+               <l>Vnto our ſelfes: Suche is vncharitie.</l>
+            </lg>
+            <pb n="32" facs="tcp:176459:21"/>
+            <lg>
+               <l>The feeble Nature euen of Fleſh and Blood</l>
+               <l>Hath been ſo kind to die for Anceſtrie,</l>
+               <l>Gentility records <hi>Eneas</hi> good</l>
+               <l>In that he bore his aged fathers frailtie</l>
+               <l>Through <hi>Troyes</hi> flames: much more ought Charitie</l>
+               <l>Beare patiently anothers penaltie.</l>
+            </lg>
+            <lg>
+               <l>But ſhall I ſay that haplie in this caſe</l>
+               <l>Our Lord is pleaſ'd to trie thy patience,</l>
+               <l>Thy valure, and obedience in diſgrace?</l>
+               <l>Oh, that were all-too glorious a pretence:</l>
+               <l>For (well ye wot) that Souldiour is a King</l>
+               <l>That choycelie is employ'd in warfaring.</l>
+            </lg>
+            <lg>
+               <l>T'is Scowndrell-glorie ſtill to ſit at eaſe</l>
+               <l>In gawdie ſatisfaction of thy ſence:</l>
+               <l>Nay, t'is no glorie at all, but a diſeaſe</l>
+               <l>That Canker-like conſumes thine Innocence.</l>
+               <l>Now God being pleaſ'd to cure thee thereof</l>
+               <l>Doth thus confound it all into a ſcoffe.</l>
+            </lg>
+            <lg>
+               <l>And yet confounds it ſo, as thou maiſt ſee</l>
+               <l>His Iuſtice and his Mercie ioind together,</l>
+               <l>Thy yll contrould to future dignitie,</l>
+               <l>So dooth the goodneſſe of thy cauſe auerre:</l>
+               <l>If God did meane thy eternall infamie,</l>
+               <l>Worſe paſſiue cauſe had foule befall'n thee.</l>
+            </lg>
+            <pb n="33" facs="tcp:176459:21"/>
+            <lg>
+               <l>Thou canſt not haue a more aſſured pavvne</l>
+               <l>Of Gods benignitie then a good cauſe,</l>
+               <l>It being vnto thy ſoule a ſacred dawne</l>
+               <l>Of heauens day; and an eſpeciall clauſe</l>
+               <l>Or Charter-warrant of Saluation</l>
+               <l>By a ſecure Conſcience-atteſtation.</l>
+            </lg>
+            <lg>
+               <l>Not all the glorie of this world is worth</l>
+               <l>The minnim-<hi>Emphoſis</hi> of a good Conſcience:</l>
+               <l>The verie penall teares it ſendeth foorth</l>
+               <l>Are more then pearles of Indie-excellence:</l>
+               <l>Much more are they Emperiall dignities</l>
+               <l>Her inward Ioyes and Iocundities.</l>
+            </lg>
+            <lg>
+               <l>Say that the Corpes of ſuch a Conſcience</l>
+               <l>Lie all in mange before the Miſers dore,</l>
+               <l>His name as hell held in the worlds offence,</l>
+               <l>Yet is he not vnfortunate therefore;</l>
+               <l>For heauen and he being ſtill in good conjunction</l>
+               <l>All that's but vapor, and no ſound confuſion.</l>
+            </lg>
+            <lg>
+               <l>Nay t'is to thee a haughtie merit-matter</l>
+               <l>If brookt with patient valure to the end;</l>
+               <l>Which eaſely thou maiſt doe, if thou conſider</l>
+               <l>That Ieſus tempts thy patience as a friend,</l>
+               <l>Not in his rage aboue thy power and ſtrength,</l>
+               <l>Whom he reprooues at firſt, he ſaues at length.</l>
+            </lg>
+            <pb n="34" facs="tcp:176459:22"/>
+            <lg>
+               <l>And ſooth to ſay, what is Proſperitie</l>
+               <l>That ſo ſhould make thee abhor Aduerſitie?</l>
+               <l>Euen <hi>Caeſars</hi> loftie pomp, and ſoucraigntie</l>
+               <l>Is not by ods ſincere felicitie;</l>
+               <l>Subiect to Care and Alteration</l>
+               <l>Through Enuie, Errour, and Adulation.</l>
+            </lg>
+            <lg>
+               <l>How much adoe is done ere men attaine</l>
+               <l>To wealth and glorie by Ambition?</l>
+               <l>Still carke and care ſhares halfe the ſeruile gaine,</l>
+               <l>The reſt remaines to Deaths confuſion:</l>
+               <l>T'is well if tart Synderiſie and Hell</l>
+               <l>Triumver not to towlle the paſsing-bell.</l>
+            </lg>
+            <lg>
+               <l>Care in attaining, and care in attaine</l>
+               <l>Care is the lower and the vpper ſtaire:</l>
+               <l>Such carefull glorie is but glorious paine,</l>
+               <l>Yea care, or care-leſſe either, all's but aire:</l>
+               <l>Feaſt it in care, or feaſt it careleſly</l>
+               <l>Death is the latter <hi>Harpie</hi> of all glory.</l>
+            </lg>
+            <lg>
+               <l>Beſides, how many Villaines are aduanc'd</l>
+               <l>To ſuch theatricall, and ſtagie-ſtate</l>
+               <l>Whilſt Vertue lies obliuiouſly entranc'd,</l>
+               <l>Neglected, and diſdain'd as out of date:</l>
+               <l>Beſides the multiplicitie of abuſe</l>
+               <l>That is in ſuch mundanities miſ-uſe.</l>
+            </lg>
+            <pb n="35" facs="tcp:176459:22"/>
+            <lg>
+               <l>Whereas the patient S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rapin diſtreſſe</l>
+               <l>Behoneſteth his guikie ſuffrance:</l>
+               <l>And if he ſuffer for Gods righteouſneſſe,</l>
+               <l>Loe, there the ſumine of all true valliance:</l>
+               <l>Heauens <hi>Machabe</hi> he is that ſo downe-dies</l>
+               <l>Guiltie of all glorie, and Gods deere dainties.</l>
+            </lg>
+            <lg>
+               <l>Who heares his name a thouſand yeeres hence</l>
+               <l>Will giue it glorie, praiſe, and reuerence</l>
+               <l>As to a Temples ruin-Monuments</l>
+               <l>Raſed in Sacrilege, and Gods offence:</l>
+               <l>He will be-villaine thoſe that did the deed</l>
+               <l>As Scowndrell-Agents of Hells blacke areed.</l>
+            </lg>
+            <lg>
+               <l>We are not borne to Fortunes complements,</l>
+               <l>As ſoueraigne dainties; but as Vertues tooles</l>
+               <l>Wherwith to ſhape vs perfect lineaments</l>
+               <l>Of honorable Manhood: And not as Fooles</l>
+               <l>To dote vpon the Penſill in our hand</l>
+               <l>And not depaint vs like to Gods command.</l>
+            </lg>
+            <lg>
+               <l>Vertue's the Ladie of our Humanitie,</l>
+               <l>And Fortune but the hand-maid of our merit,</l>
+               <l>Now, were it homelied one to magnifie</l>
+               <l>The meane aboue the maine: T'were pettie ſperit</l>
+               <l>To ſlip our nettes into the Sea for water</l>
+               <l>And pardon Fiſh, as no part of the matter.</l>
+            </lg>
+            <pb n="36" facs="tcp:176459:23"/>
+            <lg>
+               <l>This life is but a warfare againſt ſinne</l>
+               <l>And either Fortune is but ſinnes Coate-armour,</l>
+               <l>Be it bright or blacke, great danger lies therein</l>
+               <l>If thou reſiſt not with a haughtie valour:</l>
+               <l>T'is witleſſe yeelding to her gawdements,</l>
+               <l>And cowardi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e vnto her orearements.</l>
+            </lg>
+            <lg>
+               <l>What skils it whether we fight with blacke or white</l>
+               <l>If blacke and white be both our enemies,</l>
+               <l>The one in guile, tho'other in flat deſpight?</l>
+               <l>The Goblin-Bugs, and Faery Hiedegies</l>
+               <l>Are both the ſhades of hell, and night-affrayes</l>
+               <l>Encounter, not aſſent quelles their diſmayes.</l>
+            </lg>
+            <lg>
+               <l>And why are we the image of our God</l>
+               <l>The Monarches ouer all Elementaries?</l>
+               <l>But to controwll with Reaſons righteous rod</l>
+               <l>All fleſh and bloods fraile ſenſualities;</l>
+               <l>T'is ſenſualitie, and pettie power</l>
+               <l>To mal-content thee for a fading flower.</l>
+            </lg>
+            <lg>
+               <l>Stand thou on Reaſons haughty Promontorie</l>
+               <l>Superiour and ſecure ouer all diſgrace,</l>
+               <l>Rage wind, and waue, &amp; horror round about thee</l>
+               <l>Yet all is glorie and peace in that bright place:</l>
+               <l>Nor Death, nor Hell can damnifie thy honer</l>
+               <l>So long as Reaſons arme beares vp thy banner.</l>
+            </lg>
+            <pb n="37" facs="tcp:176459:23"/>
+            <lg>
+               <l>Oh generous minded men that can eſteeme</l>
+               <l>All ſtate inferiour to their mindes degree,</l>
+               <l>And not abandon it to baſe miſdeeme</l>
+               <l>Of any Fortunes power aboue her glee</l>
+               <l>But can out-ſtare it with a quaint regard</l>
+               <l>In reference to merite, and Gods grand reward.</l>
+            </lg>
+            <lg>
+               <l>That can conceipt all Fortune as a Fog</l>
+               <l>Bee't black or bright, all but a matter of aire,</l>
+               <l>If bright, oh then it doth but flatter and cog,</l>
+               <l>If blacke, it drowns thee with a flood of care,</l>
+               <l>Vnleſſe thy mind be as a Sunne aboue it</l>
+               <l>Faire ouer-ſhining all her miſt-demerit.</l>
+            </lg>
+            <lg>
+               <l>Faire Fortune is a Bog, a dauncing danger,</l>
+               <l>And Temperance muſt foot it with a modeſt pace;</l>
+               <l>Her frowne, a gulfe that drownes the hartleſſe ſtranger</l>
+               <l>That cannot wend with Patience his diſgrace;</l>
+               <l>Both that and it are mortuarie matter</l>
+               <l>If fed vpon in Indiſcretions platter.</l>
+            </lg>
+            <lg>
+               <l>Submit not then thy ſacred Subſtantiue</l>
+               <l>To Fortunes heſtes: but as thou art of Nature,</l>
+               <l>So ſtill continue thy prerogatiue</l>
+               <l>Aboue her blandiſhing and ſpightfull power,</l>
+               <l>So ſhone a Patrimonie as thy Mind</l>
+               <l>Let neuer Fortune waſt it out of kind.</l>
+            </lg>
+            <pb n="38" facs="tcp:176459:24"/>
+            <lg>
+               <l>Thou art no part of Fortune, but thine owne:</l>
+               <l>Vertue thy fore-guide, Heauen thy attaine,</l>
+               <l>Good death, not loftie life thy beſt Renowne,</l>
+               <l>Contented mind thy glories after-gaine:</l>
+               <l>Without content all glorie is but gall,</l>
+               <l>And with content diſgrace is feſtiuall.</l>
+            </lg>
+            <lg>
+               <l>Content's the Spunge of true felicitie,</l>
+               <l>The Cordiall againſt degraded bleſſe,</l>
+               <l>Corriuall to the higheſt Empirie,</l>
+               <l>The badge of Innocence and Righteouſneſſe,</l>
+               <l>Vertues enthrone, Rent of a manlie mind</l>
+               <l>To God for whatſoeuer ſtate aſsign'd.</l>
+            </lg>
+            <lg>
+               <l>It is the <hi>Phaenix</hi> of fore-glories Embers:</l>
+               <l>Patience her wing, Heauen is her amount,</l>
+               <l>It is the <hi>Christopher</hi> whoſe manly members</l>
+               <l>Waſteth the miſer-man through all affrount,</l>
+               <l>It is the true and perfect <hi>Salamander,</hi>
+               </l>
+               <l>Breathing vitalitie in flames of fire.</l>
+            </lg>
+            <lg>
+               <l>Not ſo the Skowndrell in his greateſt glorie,</l>
+               <l>For ther is no Content in guilt of euill,</l>
+               <l>A skowll down-looke, and ſwart ſynderiſie</l>
+               <l>Betokening him a member of the Deuill:</l>
+               <l>He cannot with a faire erected front</l>
+               <l>Be-<hi>Abba</hi> God: nor yeeld him good accompt.</l>
+            </lg>
+            <pb n="39" facs="tcp:176459:24"/>
+            <lg>
+               <l>His glorie in guilt of yll is as a flower</l>
+               <l>Begnawne with an accurſed Caterpiller,</l>
+               <l>Or as an Apple periſht in the coure</l>
+               <l>Though faining outwardlie a faithfull faire;</l>
+               <l>Oh fatall incenſe, oh accurſed fume</l>
+               <l>That ſo choaks vp the wretch doth it aſſume.</l>
+            </lg>
+            <lg>
+               <l>Wheras the others conſcientiall-content</l>
+               <l>Doth feaſt his Fates, and ciuillize their rage,</l>
+               <l>Turning their gall to glee and ſolagement</l>
+               <l>And faire be-heauening hell with her aſſwages</l>
+               <l>Hee's as a Bwoy aboue the boſterous waue</l>
+               <l>Dauncing to ſcorne the Seas ybillowy-braue.</l>
+            </lg>
+            <lg>
+               <l>So ſtrong in power is his ſincere incline</l>
+               <l>To Gods ordaine and holie prouidence,</l>
+               <l>Reſting therin as in a ſacred ſhrine</l>
+               <l>Or Sanctuarie againſt all hels offence:</l>
+               <l>The Deuils eager-gripe cannot confound</l>
+               <l>Him whom our Lords protection doth bound.</l>
+            </lg>
+            <lg>
+               <l>There is no hell but in our Gods offence:</l>
+               <l>Pleaſe him, and boldlie plunge adowne the deep</l>
+               <l>Of all accurſe: his holy Prouidence</l>
+               <l>Being the <hi>Argus</hi> which doth neuer ſleep,</l>
+               <l>Will on the wings of ſafe Protection</l>
+               <l>Still beare the juſt man vp from all perdition.</l>
+            </lg>
+            <pb n="40" facs="tcp:176459:25"/>
+            <lg>
+               <l>What hap can hap amiſſe to Gods bebleſt?</l>
+               <l>What waue can ſurge aboue his prouidence?</l>
+               <l>The Hagges of hell are chain'd to his beheſt</l>
+               <l>Hell gates obey his high omnipotence:</l>
+               <l>Diue downe to Hell, if he beare vp thy chin</l>
+               <l>Wel maiſt thou ſink a while, nere drowne therein.</l>
+            </lg>
+            <lg>
+               <l>If once thy hope be anchored in God</l>
+               <l>No waue, no bluſter can endanger thee,</l>
+               <l>Thy foot from falling is ſecurely ſhod</l>
+               <l>He correſponding thy fidelitie:</l>
+               <l>If God thy Center be and thy defence</l>
+               <l>Be Hell, be Deuil thy Circumference.</l>
+            </lg>
+            <lg>
+               <l>The Tyrants ſteele, the Hang-mans Axeltree,</l>
+               <l>His ſtrangles, mangles, and his fierie doomes</l>
+               <l>Cannot confound true magnanimitie</l>
+               <l>Founded on Gods true loue &amp; hollidoomes;</l>
+               <l>His life in gore, his Ghoſt in ſhades of hell</l>
+               <l>Are more at eaſe than anie tongue can tell.</l>
+            </lg>
+            <lg>
+               <l>The earthen minded man cannot conceaue</l>
+               <l>So haughtie glorie in diſglorie and dole:</l>
+               <l>His groueling appetite doth ſo bereaue</l>
+               <l>His wit, impelling it to another gole;</l>
+               <l>Hee's ſo befotted in his Leproſie</l>
+               <l>That it alonlie he eſteems true glorie.</l>
+            </lg>
+            <pb n="41" facs="tcp:176459:25"/>
+            <lg>
+               <l>But time will come when at a iuſt Tribunall</l>
+               <l>The iuſt mans miſerie, and the miſers glee</l>
+               <l>Will come in <hi>Coram,</hi> and bee doom'd for all:</l>
+               <l>Then mourning good ſhall mount to Maieſtie,</l>
+               <l>And ſin-polluted glorie downe diſcend</l>
+               <l>T'irreparable dollour without end.</l>
+            </lg>
+            <lg>
+               <l>Then vae to guiltie glorie, glorious guilt,</l>
+               <l>Vae to ſuppreſſe of vertue, aduance of vice;</l>
+               <l>The Raſcalls towre on Vertues tuines built</l>
+               <l>Muſt then adowne, and he repent the price:</l>
+               <l>Oh, farre more happie then diſgraced good,</l>
+               <l>Then Vice aduanc'd to skowndrell altitud.</l>
+            </lg>
+            <lg>
+               <l>But thou wilt ſay it is Detraction,</l>
+               <l>It is thy name defam'd among the juſt</l>
+               <l>Thy life bely'd through miſconſtruction</l>
+               <l>That more then all thy glorie in the duſt</l>
+               <l>Be-hels and tortureth thy manly mind,</l>
+               <l>It being a miſchiefe of a woorſer kind.</l>
+            </lg>
+            <lg>
+               <l>Bee't ſo (<hi>Elizian</hi>-man) I doe confeſſe</l>
+               <l>Detraction is indeed a monſtrous euell,</l>
+               <l>Foule <hi>Harpie</hi> of honour, Night of righteouſneſſe</l>
+               <l>And the vnciuill tongues moſt venym-driuell,</l>
+               <l>Much more I doe confeſſe it is a ſpight</l>
+               <l>To be of honeſt men a villaine hight.</l>
+            </lg>
+            <pb n="42" facs="tcp:176459:26"/>
+            <lg>
+               <l>But on the other ſide, when thou conſider</l>
+               <l>The ſand-blind errors euen of juſteſt men,</l>
+               <l>How much from Gods intuitie they differ</l>
+               <l>And oft when moſt they iudge, are moſt miſtaken;</l>
+               <l>Diſpaire not at their doomes, but in thy hart</l>
+               <l>Bleſſe God who ſees thee inly what thou art.</l>
+            </lg>
+            <lg>
+               <l>Oft-times the good man credits with his eares</l>
+               <l>Not with his eyes: Therhence if injurie</l>
+               <l>Redownd to thee; the fault being whollie theirs,</l>
+               <l>Farre be it from thy hearts ſynderiſie:</l>
+               <l>Yea rather with a bolt-vp countenance</l>
+               <l>Giue it the Lie, and hardie ſufferance.</l>
+            </lg>
+            <lg>
+               <l>Much more the Villaines obloquie diſdaine it</l>
+               <l>As curriſh crauin againſt thy Innocence,</l>
+               <l>His Viper-language cannot cracke thy credit</l>
+               <l>A bluſh-leſſe conſcience pleading thy defence;</l>
+               <l>His tongue againſt thy Soules ſecure eſtate</l>
+               <l>Fares as a reed againſt a brazen gate.</l>
+            </lg>
+            <lg>
+               <l>But if his obloquie be a true <hi>Eccho</hi>
+               </l>
+               <l>Of thy miſ-gouernance and guilty life,</l>
+               <l>Then well I doe aread it is a woe</l>
+               <l>Vnto thy honor, and a ſlaughter-knife;</l>
+               <l>Wheras contrarie-wiſe if thou be ſound</l>
+               <l>It's but an ayrie, and an idle ſownd.</l>
+            </lg>
+            <pb facs="tcp:176459:26"/>
+            <lg>
+               <l>Faire then aguize thee with a trim tranſcent</l>
+               <l>Aboue al fleſh and hells indignitie,</l>
+               <l>Emboſt with gentle Patience, and Content</l>
+               <l>Lamb-like repineleſſe at aduerſitie,</l>
+               <l>For, ſooth I ſay, and heauen will witneſſe it</l>
+               <l>The juſt mans miſerie is a haughtie merit.</l>
+            </lg>
+            <lg>
+               <l>And firſt pleaſe God in his commandements,</l>
+               <l>Next, with a true Satrapick-ſufferance</l>
+               <l>Grace me that face of thine, thoſe lineaments</l>
+               <l>Againſt Detraction and hells miſ-valiance,</l>
+               <l>Shew that thou art the image of thy God</l>
+               <l>In patient portage of his penall rod.</l>
+            </lg>
+            <lg>
+               <l>So, nor diſpaire, nor yet reuenge thy woe</l>
+               <l>But with the prudent Serpent in diſtreſſe</l>
+               <l>Safe-garde thy head; let die the reſt beloe:</l>
+               <l>Thy head in heauen, thy heele in heauineſſe</l>
+               <l>Is merrie matter, if thou well conſider</l>
+               <l>That death rejoynes them both in bleſſe togither.</l>
+            </lg>
+            <lg>
+               <l>Haſt thou not noted this effect in Nature.</l>
+               <l>How chill-cold winter calefies the water</l>
+               <l>
+                  <hi>Anteperiſtezing</hi> her powers together</l>
+               <l>Wherby it faire reſiſts her y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie ire?</l>
+               <l>So, in thy winter of Aduerſitie</l>
+               <l>Create thy ſelfe a ſommer-Iubilie.</l>
+            </lg>
+            <pb facs="tcp:176459:27"/>
+            <lg>
+               <l>Giue place to furie as the humble Snaile</l>
+               <l>Retreating in his hornes gainſt miſaduenture,</l>
+               <l>In time all violence will ſelfelie quaile</l>
+               <l>If vnprouok'd with curriſh miſdemeanure:</l>
+               <l>The chilleſt winter and the darkeſt night</l>
+               <l>Redound at laſt to Sommer, and broad day-light.</l>
+            </lg>
+            <lg>
+               <l>See how the Marigold againſt the Son</l>
+               <l>Diſplayes and ſhuts it ſelfe at his dominion</l>
+               <l>Leſſening at night her ſpred proportion</l>
+               <l>But nere diſculloring her gold-complexion,</l>
+               <l>So to the ſoueraigntie of God aboue</l>
+               <l>With Fortunes night deminiſh not thy loue.</l>
+            </lg>
+            <lg>
+               <l>But thinke misfortune is the flayle of grace,</l>
+               <l>The clarifying Fornace of thy ſoule</l>
+               <l>Wherewith God ſtrips away thy chaffe-diſgrace</l>
+               <l>And makes thee pure mettle with ſuch controwlle</l>
+               <l>T'is honorable manhood to obey thy God,</l>
+               <l>Bee't in his mercie, or his juſtice-rod.</l>
+            </lg>
+            <lg>
+               <l>Wilt thou ſubmit thy mind to Fortunes Impoſtes</l>
+               <l>Faithleſſe of Gods benignitie and care?</l>
+               <l>Ah, rather doe diſdaine her bales and boſtes</l>
+               <l>As Crocadyle-deceipts, and crabbed ware<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And to thy God alonly plie thy heſt</l>
+               <l>For ſuch is pure dutie, and the pure beſt.</l>
+            </lg>
+            <pb n="45" facs="tcp:176459:27"/>
+            <lg>
+               <l>So doing, better boones then Fortunes baubles</l>
+               <l>Will Spaniell-like attend vpon thy merite,</l>
+               <l>Good death, and after death th'immo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uables</l>
+               <l>Of glorie, and fame, and an in heauened ſpirite</l>
+               <l>In euerlaſting lubilie and bleſſe</l>
+               <l>Far more then heart can thinke, or tongue expreſſe.</l>
+            </lg>
+            <lg>
+               <l>So ſhalt thou ſwim away in Ver<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es flood,</l>
+               <l>A happie burthen to a happy Maine,</l>
+               <l>Gods flowerie-eter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itie garlanding thy good</l>
+               <l>And his embrace lullabying all thy paine:</l>
+               <l>Oh, happy thou when ſuch adoption</l>
+               <l>Shall faire befall thy tribulation.</l>
+            </lg>
+            <lg>
+               <l>When all thy Croſſes ſhall appeare in heauen</l>
+               <l>As euer-memorable Annalles of thy merit,</l>
+               <l>Oras bright Trophees to thy Vertue geuen</l>
+               <l>The Saintes of glorie all applauding it;</l>
+               <l>When God with his ſereneſt countenance</l>
+               <l>Shall euer bright be-boone thy ſufferance.</l>
+            </lg>
+            <lg>
+               <l>Then wilt thou nere repent the of thy woe</l>
+               <l>But wiſh it had been twentie folde as much</l>
+               <l>For <hi>Ieſus</hi> ſake, who euen in earth beloe</l>
+               <l>Can frollick thy incinder with his tutch</l>
+               <l>And faire be-heauen thy bones in drearie graue,</l>
+               <l>Aboue the glorie and eaſe that <hi>Caeſars</hi> haue.</l>
+            </lg>
+            <pb n="46" facs="tcp:176459:28"/>
+            <lg>
+               <l>And ſooth to ſay, wherin hath <hi>Ieſus</hi> err'd</l>
+               <l>Or not deſeru'd ſuch ſuffrance at thy hands?</l>
+               <l>Hath he not alwayes in his life preferr'd</l>
+               <l>Diſgrace and dole to rid thee out of bands?</l>
+               <l>Oh, was not he the man, the Lambe that dy'd</l>
+               <l>To ſhew thee heauen in woe, and not in pride?</l>
+            </lg>
+            <lg>
+               <l>He was Almightie to haue ſau'd his head</l>
+               <l>If he had pleaſ'd; But for a preſident</l>
+               <l>Of paſsiue Fortitude, and Lamblihead</l>
+               <l>He condiſcended vnto woe and torment,</l>
+               <l>And did erect the Croſſe a capitall</l>
+               <l>Enſigne of honour, and renowne to all.</l>
+            </lg>
+            <lg>
+               <l>And ſince, what Saint did euer amount to bleſſe</l>
+               <l>That hath not more or leſſe been crucifi'd?</l>
+               <l>Either with ſelfe zeale-doome, or by oppreſſe</l>
+               <l>Of tyrannie by villaines hands inflicted?</l>
+               <l>The ſeed that muſt to flowery growth redound</l>
+               <l>Muſt firſt lie dead, and withered in the ground.</l>
+            </lg>
+            <lg>
+               <l>Beſides; oh what a monſtrous thing it is</l>
+               <l>To liue delitious vnder a thorney head;</l>
+               <l>Thy God to daigne to die for thy amiſſe</l>
+               <l>And thou repine to be diſhonored</l>
+               <l>For Vertues ſake; Oh fond ingratitude</l>
+               <l>So to permit thy Sence thy Soule delude.</l>
+            </lg>
+            <pb n="47" facs="tcp:176459:28"/>
+            <lg>
+               <l>If ſo the fleſh, the world, the deuill could doe</l>
+               <l>More ſpight vnto thy ſtate then God can quayle,</l>
+               <l>Or that his grace could not tranſcend thy woe</l>
+               <l>Be-cheering it with happie counteruayle,</l>
+               <l>Then might'ſt thou with a juſt repine deteſt.</l>
+               <l>To be by any fate of fleſh oppreſt.</l>
+            </lg>
+            <lg>
+               <l>But God both can and will relieue his Plaintife</l>
+               <l>That doth with juſt petitions inuoke him,</l>
+               <l>Selfe-loueleſſe and repineleſle at the griefe</l>
+               <l>That from his ſoueraigne doome betides him;</l>
+               <l>The louing mothers teat is not ſo prone</l>
+               <l>Vnto her Babe, as Chriſt to his deere one.</l>
+            </lg>
+            <lg>
+               <l>So ſhew'd his <hi>Pellican</hi>-content to die</l>
+               <l>To giue thee life, the gore adowne his breaſt</l>
+               <l>To waſh away thy ſin-impuritie;</l>
+               <l>His dolour was thy euerlaſting reſt,</l>
+               <l>His bitter wounds the euer open gates</l>
+               <l>Of grace, and glorie to thy rankeſt fates.</l>
+            </lg>
+            <lg>
+               <l>Loe, he thy paines-appeaſe, true charter-warrant</l>
+               <l>Of glorie after gall: The bonnie bright</l>
+               <l>Whoſe crimſon rayes can faire propulſe and daunt</l>
+               <l>The dreadeſt Goblin of thy darkeſt night:</l>
+               <l>Be thou the man of duty to thy dole,</l>
+               <l>The reſt let him alone for to controle.</l>
+            </lg>
+            <pb facs="tcp:176459:29"/>
+            <lg>
+               <l>Inſhrine thy Patience in his Paſsion</l>
+               <l>Thy Hope, thy Conſtance in his after-boones</l>
+               <l>To his entire irradiation</l>
+               <l>Submit thy night-ſhades and decreaſed Moones,</l>
+               <l>He is the Sonne of Right, and will appay</l>
+               <l>All vertues anguor with a Hollie-day.</l>
+            </lg>
+            <lg>
+               <l>Behold his image yonder on the Croſſe,</l>
+               <l>See how he droops and dies and damnes Reuenge</l>
+               <l>Yeelding his whole humanity in groſſe</l>
+               <l>A pendular reproch on woodden henge:</l>
+               <l>Yea euen his Deitie he doth deject</l>
+               <l>Vnto a ſeeming ſhadowed defect,</l>
+            </lg>
+            <lg>
+               <l>Be not a beaſt of deſperation,</l>
+               <l>A moodie torment, traitor to thy ſelfe,</l>
+               <l>T'is groſſe conceipt and imperfection</l>
+               <l>To ground thy Barke vpon thy owne ſhores ſhelfe:</l>
+               <l>Suffice it that extrinſecall aggriefe</l>
+               <l>Abound, <hi>ſans</hi> that thou giue it home-reliefe.</l>
+            </lg>
+            <lg>
+               <l>Thinke that thy ſinnes are greater then thy woe,</l>
+               <l>Thy worldly griefes but Graces happy reſcue</l>
+               <l>From greater helles that to thy ſowle doe growe;</l>
+               <l>Or haply to enforce to manly vertue</l>
+               <l>Thy youngling heſtes of grace; or to containe</l>
+               <l>Thy preſent good from proouing after vaine.</l>
+            </lg>
+            <pb facs="tcp:176459:29"/>
+            <lg>
+               <l>Time and thy graue did firſt ſalute thy Nature</l>
+               <l>Euen in her infancie and cradle-Rightes</l>
+               <l>Inuiting it to duſtie Deaths defeature,</l>
+               <l>And therewithall thy Fortunes fierce deſpights:</l>
+               <l>Death is the gulfe of all: and then I ſay</l>
+               <l>Thou art as good as <hi>Caeſar</hi> in his clay.</l>
+            </lg>
+            <lg>
+               <l>Death is the drearie Dad, and duſt the Dame</l>
+               <l>Of all fleſh-frailtie, woe or maieſtie;</l>
+               <l>All ſinkes to earth that ſurgeth from the ſame,</l>
+               <l>Nature and Fortune muſt together die:</l>
+               <l>Only faire Vertue skales eternitie</l>
+               <l>Aboue Earths all-abating tyrannie.</l>
+            </lg>
+            <lg>
+               <l>Read in my front the ruine of my nature</l>
+               <l>And therwithall perpend thy miſeries,</l>
+               <l>I doe confeſſe I were a curſed creature</l>
+               <l>Were not Gods grace aboue m'infirmities,</l>
+               <l>So, thou in Faith to after-retribution</l>
+               <l>Aſſwage thy woe and tribulation.</l>
+            </lg>
+            <lg>
+               <l>Die in thy Sauiours wounds, and there an end,</l>
+               <l>There pricke the Period of thy moody wander,</l>
+               <l>To him thy woe, and the reuenge commend</l>
+               <l>As to thy ſoueraigne Liege and high commander,</l>
+               <l>And thinke no errour whiſpereth in thine eare</l>
+               <l>For what I ſay is true, and that I ſweare.</l>
+            </lg>
+            <pb n="50" facs="tcp:176459:30"/>
+            <lg>
+               <l>So ſaid: the teares of zeale trill'd downe his cheeks</l>
+               <l>Atteſting truth vnto his Catechiſme,</l>
+               <l>When (loe) e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſoons vnto the Crucifixe</l>
+               <l>Crooching adowne, he ſaid; Oh ſacred Chriſme,</l>
+               <l>Oh ſweet aſſwage of infelicitie</l>
+               <l>Witneſſe that what I ſay is veritie.</l>
+            </lg>
+            <lg>
+               <l>Say, art not thou the image of our Lord</l>
+               <l>The true Character of his ſufferance?</l>
+               <l>Was he not crown'd, deluded, and abhord</l>
+               <l>Miſuail'd, and ſcourg'd with vile miſ-valiance?</l>
+               <l>Oh, was not he the holie Paſchall-lambe</l>
+               <l>That di'd repineleſſe for the ſinnes of man?</l>
+            </lg>
+            <lg>
+               <l>Sweet <hi>(Ieſu)</hi> giue me leaue to kiſſe thy figure</l>
+               <l>With thankfull zeale to thy benignitie,</l>
+               <l>And let me pray thee by ſo great diſfigure</l>
+               <l>T'inſpire this man of woe thy paſsiue-glorie:</l>
+               <l>That not all like a beaſt hee droop and die</l>
+               <l>Heart-leſſe and impious in his miſerie.</l>
+            </lg>
+            <lg>
+               <l>Defend thy image from ſo black a blurre</l>
+               <l>With thy in-ſhine; Let not temptation foyle</l>
+               <l>So much thy Paſsions price all like a Curre,</l>
+               <l>But as thou art a Preſident of toyle</l>
+               <l>To after-glorie; ſo let thy grace fore-goe</l>
+               <l>And faire accompanie this man of woe.</l>
+            </lg>
+            <pb n="51" facs="tcp:176459:30"/>
+            <lg>
+               <l>Without thy grace my ſpeech is all but aire</l>
+               <l>And barraine Marle; it batteneth not the ground:</l>
+               <l>It is thy grace that foyſoneth all affaire</l>
+               <l>That holie grace that floweth from thy wound;</l>
+               <l>I ſpeak in fleſh, inueſted in my bryer;</l>
+               <l>There is no flame at all but from thy fire.</l>
+            </lg>
+            <lg>
+               <l>Make it appeare how good a God thou art</l>
+               <l>And how thy woundes were not in vaine inflicted,</l>
+               <l>What Nature cannot doe, let Grace impart</l>
+               <l>To ſtrengthen and inhearten the afflicted,</l>
+               <l>Shew that thy mercie is aboue the bound</l>
+               <l>Of Fortunes topſie-turuie to confound.</l>
+            </lg>
+            <lg>
+               <l>Let not the fancies of a loftie ſtile</l>
+               <l>And vaine mundanitie tranſport thy creature</l>
+               <l>As though alonlie Fortunes lowre or ſmile</l>
+               <l>Were ſoueraigne Glories gift and dread defeature,</l>
+               <l>As though thy power were worne out of date</l>
+               <l>And could no longer ſigniorize our fate.</l>
+            </lg>
+            <lg>
+               <l>Diſperſe the terrors of his moodie night</l>
+               <l>That he may ſee thy ſhone <hi>Hieruſalem</hi>
+               </l>
+               <l>And in this holie Cittie <hi>Sions</hi> light</l>
+               <l>Abide, and faithfullie beleeue this Theame</l>
+               <l>
+                  <hi>Happie they all that ſuffer for our Lord,</hi>
+               </l>
+               <l>
+                  <hi>For he to ſuch his heauen will affoord.</hi>
+               </l>
+            </lg>
+            <pb n="52" facs="tcp:176459:31"/>
+            <lg>
+               <l>With that he kiſt the Crucifixe againe</l>
+               <l>And with a ſtrict imbrace therof he ſounded;</l>
+               <l>His Ghoſt amounted vp to heauens domaine,</l>
+               <l>His corps lay trunke-like ſeeming dead confounded;</l>
+               <l>Whiles I meane while internallie infiered</l>
+               <l>Did feele the woonders of Gods grace inſpired.</l>
+            </lg>
+            <lg>
+               <l>Then gan I credit <hi>Catechryſius</hi>
+               </l>
+               <l>And hatefullie abhor my former mood,</l>
+               <l>Baſe Melancholie, black and impious</l>
+               <l>That ſo diſtrayd me from eternall good:</l>
+               <l>My heart exulted, and in zeale I ſwore,</l>
+               <l>Now by our Lord, Ile be a beaſt no more.</l>
+            </lg>
+            <lg>
+               <l>I will no longer grudge at vertues toyle,</l>
+               <l>But gladly will be crucifi'd with <hi>Ieſu;</hi>
+               </l>
+               <l>No yron-fate ſhall heerafter foyle</l>
+               <l>My conſtancie vnto the Chriſt-croſſe rew:</l>
+               <l>I will accompt all dollour and miſhap</l>
+               <l>More deere then ſweeteſt Lullaby in Fortunes lap.</l>
+            </lg>
+            <lg>
+               <l>No longer will I wander vp and downe</l>
+               <l>The deſart of Reuenge, and dread Diſpaire,</l>
+               <l>But heer will ſtint me againſt miſ-fortunes frowne</l>
+               <l>
+                  <hi>A</hi> land-man of this ſoyle and happy aire:</l>
+               <l>From hence I will reuine to priſtin bleſſe</l>
+               <l>Or els die heer with <hi>Ieſu</hi> in diſtreſſe.</l>
+            </lg>
+            <pb n="53" facs="tcp:176459:31"/>
+            <lg>
+               <l>No ſooner ſaid I ſo, and gaue conſent</l>
+               <l>To Graces in-come, and our Lords attaint,</l>
+               <l>But (loe) eftſoons from heauens high regiment</l>
+               <l>Muſicke reſounded, and appeaſ'd my plaint.</l>
+               <l>It was ſo ſweet aboue my feeble frayltie</l>
+               <l>That downe I fell as one content to die.</l>
+            </lg>
+            <lg>
+               <l>Dying in ſo ſweet ſollace and in-heauen</l>
+               <l>I was no more the man of earthly nature,</l>
+               <l>Gods Graces holie relliſh, and ſweet leauen</l>
+               <l>Had altered my fleſh to a new transfigure:</l>
+               <l>Figure of zeale to be in <hi>Ieſus</hi> armes,</l>
+               <l>Condition to endure ten thouſand harmes.</l>
+            </lg>
+            <lg>
+               <l>But God who ſaw &amp; wrought this alteration,</l>
+               <l>Faire interdicted Death his date-moſt deed,</l>
+               <l>And ſent an Angell from his holie region</l>
+               <l>To cheere my frailty vp to future ſpeed:</l>
+               <l>Whome when I ſaw and ſmelt his heauenly hue,</l>
+               <l>It did eftſoons my death to life renue.</l>
+            </lg>
+            <lg>
+               <l>He then out-ſtepping from his ſiluer-cloud</l>
+               <l>Made toward me with a reuerend peacefull pace,</l>
+               <l>And as he march'd euer and anon he bow'd</l>
+               <l>Vnto the Crucifixe was there in place,</l>
+               <l>Whereto at laſt downe humbled, he kiſt it,</l>
+               <l>And gaue it me in hand, and thus inſpeecht it.</l>
+            </lg>
+            <pb n="54" facs="tcp:176459:32"/>
+            <lg>
+               <l>Hold heer (<hi>Elizian</hi>-man) thy Sauiours image</l>
+               <l>The typick Trophee of thy ſoules redeeme,</l>
+               <l>Be it thy lifes eternall Appennage</l>
+               <l>Thy hearts deere daintie, and thy choice-eſteeme,</l>
+               <l>Inconſcience it within thy in-moſt heſt</l>
+               <l>For <hi>In hoc ſigne vinces</hi> is expreſt.</l>
+            </lg>
+            <lg>
+               <l>Be it thy Standard againſt all affrount,</l>
+               <l>Vnder her ſhade tire out Miſ-fortunes weather,</l>
+               <l>Be true to it, and make a ſure account</l>
+               <l>Heauen is thine owne as ſure as God liues euer:</l>
+               <l>God liues for euer to protect and pay</l>
+               <l>His Champion with a ioy-eternall day.</l>
+            </lg>
+            <lg>
+               <l>And hether I come, ſent from his Tabernacle</l>
+               <l>To certifie ſo much to thy poor frailtie,</l>
+               <l>And heer haue brought thee heauen-inchanted tackle</l>
+               <l>To warfare fleſh and bloods calamitie:</l>
+               <l>Loe I thy Angell of protection</l>
+               <l>Againſt whatſoere foule and fell affection.</l>
+            </lg>
+            <lg>
+               <l>With that he arm'd my Head with Reaſons Helme,</l>
+               <l>The Creſt was Vigilance; the Plumes were twaine</l>
+               <l>Temprance againſt faire Fortunes ouerwhelme,</l>
+               <l>And Patience againſt her angrie vaine:</l>
+               <l>The Gorget was Content, and either Pouldron</l>
+               <l>Was humble Prayer and Meditation.</l>
+            </lg>
+            <pb n="55" facs="tcp:176459:32"/>
+            <lg>
+               <l>The Corſlet, it was Zeale of Gods true honour,</l>
+               <l>The Back peece, Hope to after-retribution,</l>
+               <l>The Gauntlets, tackles to Charities endeuour,</l>
+               <l>The Vant-braces, Faiths decke and decoration,</l>
+               <l>The Martch, he did injoyne was Penitence,</l>
+               <l>The Combate, Courage againſt all ſinnes offence.</l>
+            </lg>
+            <lg>
+               <l>Then gaue he me in hand a Shield of Golde</l>
+               <l>All ouer-grauen with Chriſtes Paſsion,</l>
+               <l>And round about in-amill'd I might behold</l>
+               <l>Death-heads, and latter Reſurrection</l>
+               <l>To heauen or hell: The Croſſe in th'other hand</l>
+               <l>Was all my Spear againſt whatſoere withſtand.</l>
+            </lg>
+            <lg>
+               <l>Thus arm'd; the Angell bright againe in-clouded</l>
+               <l>Vpbounded from mine eye toward heauen away</l>
+               <l>Leauing the place with ſpiced ſweetes ſuffuſed</l>
+               <l>And all beſtrew'd with Crownes and wreathes of Bay,</l>
+               <l>Spelles and demonſtrances of future glorie</l>
+               <l>To well atchiued warre and victorie.</l>
+            </lg>
+            <lg>
+               <l>I then there all alone vn-Angelled,</l>
+               <l>Began to view and glee me in mine Armes</l>
+               <l>Woondring to ſee me ſo be-Championed</l>
+               <l>Againſt th'aſſaults of ſin &amp; Fortunes harmes:</l>
+               <l>And thus I ſaid: Oh ſhone <hi>Hieruſalem</hi>
+               </l>
+               <l>What woonders are in thee to well-fare men.</l>
+            </lg>
+            <pb n="54" facs="tcp:176459:33"/>
+            <lg>
+               <l>I bleſſe the God and Spirit of thy bounds,</l>
+               <l>I bleſſe thy Concord, and thy Monarchie,</l>
+               <l>I bleſſe the ſtreams that tril from <hi>Ieſus</hi> wounds</l>
+               <l>Into thy ſeuen-fold Ceſternes; and from thee</l>
+               <l>Are vitally imparted vnto all</l>
+               <l>That liue within thy Rampier and thy wall.</l>
+            </lg>
+            <lg>
+               <l>Loe, I with Graces furniture faire arm'd</l>
+               <l>Within thy confines, humbly beſeech thee</l>
+               <l>Admit my Souldiour-ſhip as yet vnharm'd</l>
+               <l>With any aduerſe warres, into thy cittie:</l>
+               <l>And daigne me there a ſtand againſt all euill,</l>
+               <l>The fleſh, the world, and fierce inſulting deuill.</l>
+            </lg>
+            <lg>
+               <l>In thee I ſee how much I went amiſſe</l>
+               <l>Ranging the deſart of mundanitie,</l>
+               <l>And in thy wiſedom now I learne this</l>
+               <l>That not in Fortunes falſe malignitie</l>
+               <l>But in ſinnes guilt, and grimme captiuitie</l>
+               <l>Is only wracke, and blacke calamitie.</l>
+            </lg>
+            <lg>
+               <l>I ſee my miſſe in thy faire Phiſnomie,</l>
+               <l>My way-leſſe errours in thy vnitie,</l>
+               <l>I feele the ardure of true Chiualrie</l>
+               <l>Inſpir'd in me from thy Nobility:</l>
+               <l>Heere liue I then the remnant of my age</l>
+               <l>Vnder thy haughty woorth and Patronage.</l>
+            </lg>
+            <pb n="57" facs="tcp:176459:33"/>
+            <lg>
+               <l>So ſaid; a ſiluer bell from high reſounded</l>
+               <l>Sommoning that Region round about to ſacring,</l>
+               <l>When (loe) eftſoons <hi>Catechryſius</hi> vn-ſwounded</l>
+               <l>His ſoules returne did giue him new reuiuing,</l>
+               <l>Oh ſacred ſommon, ſweet enchanting peale</l>
+               <l>That ſo from heauen to earth couldſt ſoules repeale.</l>
+            </lg>
+            <lg>
+               <l>His face like <hi>Phaebus</hi> in his Noony-ſhine</l>
+               <l>Daunted my feeble eye at prime aſpect,</l>
+               <l>His ſoules regreſſe had made it ſo diuine,</l>
+               <l>Bebrightning cleane away all fraile defect,</l>
+               <l>As had not zeale in heartened my frayltie,</l>
+               <l>I had not had the power t'abide ſuch glorie.</l>
+            </lg>
+            <lg>
+               <l>He then vp-riſing toward me aduanced</l>
+               <l>And kiſt the Crucifix I had in hand,</l>
+               <l>So done; he ſaid: Sweet <hi>Ieſu</hi> be thou thanked</l>
+               <l>That haſt vouchſau'd my prayer to vnderſtand;</l>
+               <l>Confirme him in thy grace for now and euer</l>
+               <l>That from thy loue and laud he varie neuer.</l>
+            </lg>
+            <lg>
+               <l>With that he imbrac'd me with a frount of glee</l>
+               <l>And call'd me brother, and Coparcener</l>
+               <l>Of <hi>Chriſtes</hi> Domaine, and therwithall he gaue me</l>
+               <l>A golden ring; the poeſie was <hi>Perſeuer:</hi>
+               </l>
+               <l>So, foorth we went vnto the Temple-ward</l>
+               <l>Twas ſacring time, and muſick much we heard.</l>
+            </lg>
+            <pb n="58" facs="tcp:176459:34"/>
+            <lg>
+               <l>Along as vp the Rocke we footed it</l>
+               <l>He did congratulate my ſhone in-armor</l>
+               <l>And did expound vnto me euery whit</l>
+               <l>How I might vſe it to Gods greateſt honor</l>
+               <l>And then concluded: O <hi>Elizian</hi>
+               </l>
+               <l>See what it is to be a Chriſtian.</l>
+            </lg>
+            <lg>
+               <l>Wouldſt thou haue thought in thy mundanitie</l>
+               <l>That euer Fortunes heel had had the might</l>
+               <l>To ſpurne th' away to ſuch an after-glorie?</l>
+               <l>Or that thy ſorie iourneyment all night</l>
+               <l>Would euer haue brought thee to ſweet repoſe</l>
+               <l>As now thou feeleſt farre aboue thy woes?</l>
+            </lg>
+            <lg>
+               <l>The ball out-banded from the court of game,</l>
+               <l>Fals not of force into the durtie kennell,</l>
+               <l>But marke, and often ſhalt thou ſee the ſame</l>
+               <l>Flie in at Pallace-windowes, and there reuell</l>
+               <l>Vpon the royall Mattes, and rich embroader;</l>
+               <l>Such grace of God hath blowne thy frailtie hether.</l>
+            </lg>
+            <lg>
+               <l>Not all the fluſh of thy fore-frollicke ſtate,</l>
+               <l>The worſhip of thy birth, thy rich reuenue,</l>
+               <l>Thy countries high applaud and eſtimate</l>
+               <l>And all that faire <hi>Elyzium</hi> can yeeld youe,</l>
+               <l>Is of the worth to countervayle thys hap</l>
+               <l>Fallen from faire Fortune into Graces lap.</l>
+            </lg>
+            <pb n="59" facs="tcp:176459:34"/>
+            <lg>
+               <l>Say that <hi>Eliza</hi> is the Lords deere daintie,</l>
+               <l>The <hi>Phaenix</hi> of true Principalitie</l>
+               <l>The feaſt of peace and ſweet ſaturitie</l>
+               <l>Vnto the people of her Emperie;</l>
+               <l>Say that ſhe is both Grace and Natures none-ſuch</l>
+               <l>I bend my knee; and ſay and thinke as much.</l>
+            </lg>
+            <lg>
+               <l>For I haue heard the woonders of her name</l>
+               <l>Our coaſt is full of great <hi>Elizabeth,</hi>
+               </l>
+               <l>Yea, all the world is fertill of the ſame;</l>
+               <l>Sweet Name that all mens tongues and pennes inableth,</l>
+               <l>Sweet Sound that all mens ſences lullabieth,</l>
+               <l>Sweet Marle that all the world imbatteneth.</l>
+            </lg>
+            <lg>
+               <l>But ſuch her glories are but eare-delightes</l>
+               <l>And lip-ſweets only to our far awayes,</l>
+               <l>For we are no <hi>Elizium</hi>-bred wightes</l>
+               <l>Nor haue we any ſuch like merrie dayes;</l>
+               <l>Wee haue our joyes in another kind</l>
+               <l>Ghoſtly innated in our ſoule and mind.</l>
+            </lg>
+            <lg>
+               <l>Whom angour of miſhap or guilt of ill</l>
+               <l>Driues to diſpaire, and ſelfe miſdoomfull deed,</l>
+               <l>Loe, heer th'vnfraught of his woe-loaden will</l>
+               <l>And reuerend riches to his ghoſtly need;</l>
+               <l>Loe, heer the Arke againſt the inundation</l>
+               <l>Of Sinne and Fortunes funerall-temptation.</l>
+            </lg>
+            <pb n="60" facs="tcp:176459:35"/>
+            <lg>
+               <l>Heer (loe) the amitie of men and Angels</l>
+               <l>In vniforme adore of one true God,</l>
+               <l>Heer Peace and Pietie togither dwels,</l>
+               <l>Heer Sciſme, and Diſcords clouen-foot nere trod,</l>
+               <l>Heer ſacred Ceremonies are in vre</l>
+               <l>As wedlocke-rightes twixt Faith and Soules inſure.</l>
+            </lg>
+            <lg>
+               <l>Heer chantes the Nightingale inceſsant praiſe</l>
+               <l>And prayer vnto the Orient ſonne of God,</l>
+               <l>Heer Grace our vncouth Adamiſme allayes</l>
+               <l>Stepping her golden foot wher guilt erſt trod,</l>
+               <l>Heer Sacrifice and Sacrificer both</l>
+               <l>Gods bleſſe and good acceptance ſtill fore-goeth.</l>
+            </lg>
+            <lg>
+               <l>Hewould haue told me more to this pourport,</l>
+               <l>But that his vp-hill pace out-tyr'd his ſpeech</l>
+               <l>And now were alſo neer the Temple port</l>
+               <l>Where euerie ſight I ſaw was ſo heauenly rich</l>
+               <l>As had he vttered more mine eies delight</l>
+               <l>Had quite vndone mine eares to doe him right.</l>
+            </lg>
+            <lg>
+               <l>Ah, now I want the Muſe of <hi>Salomon</hi>
+               </l>
+               <l>To tell you a Temple-tale, a tale of truth</l>
+               <l>All of the Architect and frame of <hi>Sion:</hi>
+               </l>
+               <l>To tell you of her age and of her youth</l>
+               <l>And of her reuerend raigne and regiment</l>
+               <l>And how <hi>Dobleſſa</hi> rues her high atchiuement.</l>
+            </lg>
+            <pb n="61" facs="tcp:176459:35"/>
+            <lg>
+               <l>The grownd was Faith; the meane-worke Charitie</l>
+               <l>The Top, a Hopefull apprehenſion</l>
+               <l>Of heauens attaine: All was of Vnitie</l>
+               <l>A ſollid mettle heawn out of Chriſt his Paſsion:</l>
+               <l>Yea Chriſt himſelfe was fundamentall ſtone,</l>
+               <l>And all the Sowder was Deuotion.</l>
+            </lg>
+            <lg>
+               <l>There ſhin'd the Rubie and the Chryſolite</l>
+               <l>The ſparkling Diamond, and the Emeraud greene,</l>
+               <l>Each Saphyre in their ſeuerall delight:</l>
+               <l>There was the happie Iacent to be ſeene</l>
+               <l>The Topaſſe, Onyx, and many a faire gem,</l>
+               <l>Corrall, Amber, and Aggats were traſh among the<g ref="char:cmbAbbrStroke">̄</g>.</l>
+            </lg>
+            <lg>
+               <l>Which ſuch bright rough-caſt ouer all incruſted</l>
+               <l>T'was heauen to ſee what Rain-bowe rayes it yeelded</l>
+               <l>Whiles euerie gem ambitiouſly contended</l>
+               <l>T'out-ſtare each others ſtarry neighbourhed:</l>
+               <l>It was ynough t'illumine all the world</l>
+               <l>But for the myſts that falſe <hi>Dobleſſa</hi> hurld.</l>
+            </lg>
+            <lg>
+               <l>Roſes and flowers of all cullored kindes,</l>
+               <l>The Marie-buſh and pleaſant Eglantine</l>
+               <l>The Honey-ſuckle in her twiſted twines</l>
+               <l>Immixt with Yuie, and the Grape-full Vine,</l>
+               <l>Did all growe vp that ſtarrie ſpanglement</l>
+               <l>Spouſing her ſplendure with their ſpiced ſent.</l>
+            </lg>
+            <pb n="62" facs="tcp:176459:36"/>
+            <lg>
+               <l>Below theſe heauen-amounting ſwauities</l>
+               <l>Grew ouer all the Temple-greene beſide</l>
+               <l>Sweet Gilliflowers and Primroſes</l>
+               <l>The Pink, and Geriſole (the Suns deer bride;)</l>
+               <l>The Molie, Violet, and the pleaſant Daſie</l>
+               <l>Balme, Margerum, and ſweet Coaſt-marie.</l>
+            </lg>
+            <lg>
+               <l>There grew the loftie Cedar, and the Pine,</l>
+               <l>The peacefull Oliffe, and the martiall Firre</l>
+               <l>The verdant Laurell in her ſhadie-ſhine,</l>
+               <l>The patient Palme, and penitentiall Mirrhe:</l>
+               <l>The Elme, the Poplar, and the Cipreſſe tree</l>
+               <l>And all trees els that pleaſant are to ſee.</l>
+            </lg>
+            <lg>
+               <l>All kinds of fruits were there perpetuall</l>
+               <l>The Date, the Almond, &amp; the ſauceful Citron,</l>
+               <l>The Fig, the Orange, and Pomgranet royall,</l>
+               <l>The Quince, the Abricock, and the musk-Mellon</l>
+               <l>The Plumme, the Cherie, and the pleaſant Peare</l>
+               <l>The Filberd and the Mulberie grew there.</l>
+            </lg>
+            <lg>
+               <l>Amid theſe trees, theſe fruites, theſe flowerie ſweetes</l>
+               <l>Ran in a Maze-like wile a chryſtall ſtreame</l>
+               <l>Of heauenly <hi>Nectar;</hi> in whoſe ſweet floods and fleets</l>
+               <l>Swom ſholes of fiſhes, euerie fiſhes gleame</l>
+               <l>Brighter then <hi>Tytan</hi> in his Southerne ſtage:</l>
+               <l>This ſtreame was ſtrong againſt prime guiltes enrage.</l>
+            </lg>
+            <pb n="63" facs="tcp:176459:36"/>
+            <lg>
+               <l>Her ſilent murmur was ſo muſicall</l>
+               <l>As it diſſolu'd the Rock to ſand and grauell</l>
+               <l>Whereby it might more in eſpeciall</l>
+               <l>With multiplicitie of eares incell</l>
+               <l>Her muſick-ſweets: yea euen the earth beloe</l>
+               <l>Did open, and eruct her bowels therto.</l>
+            </lg>
+            <lg>
+               <l>There ſate the Mauis and the Nightingale</l>
+               <l>Carrolling their Layes vnto th'eternall ſpring</l>
+               <l>The little Larke high houering ouer all:</l>
+               <l>There euery bird did either play or ſing,</l>
+               <l>The Parrat for his plumes did moſt excell</l>
+               <l>But Phaenix bare away the triumph-bell.</l>
+            </lg>
+            <lg>
+               <l>There was no ſauage ſhape, no Laruall hue</l>
+               <l>No Bug, no bale, nor horrid Owlerie</l>
+               <l>But all that there was, was ſincere and true,</l>
+               <l>Her ſweets, her ſpendure, &amp; her muſick-glee;</l>
+               <l>Yea euen the Angels of Diuinitie</l>
+               <l>Were of that league, and Confraternitie.</l>
+            </lg>
+            <lg>
+               <l>Whiles thus with ſacred follace I ſuruayd</l>
+               <l>The Temples outward majeſtie, and heauen,</l>
+               <l>So long on that imparadize I ſtayd</l>
+               <l>That now the Temple-clocke did ſtrike eleuen:</l>
+               <l>It was the inſtant time of high Oblation</l>
+               <l>We might no longer linger, but begon.</l>
+            </lg>
+            <pb n="64" facs="tcp:176459:37"/>
+            <lg>
+               <l>Eſtſoons we did ſo peacefullie aduance</l>
+               <l>That to the Temple-dore we ſtraight arriu'd,</l>
+               <l>Ore which was grauen, <hi>Vna, Militans</hi>
+               </l>
+               <l>Aſtile from Vnitie, and Warre deriu'd;</l>
+               <l>The gate was all of pure beaten golde,</l>
+               <l>The Portch a ſunnie Zodiacke to behold.</l>
+            </lg>
+            <lg>
+               <l>Then in we entred, (oh, we entred in)</l>
+               <l>Pleaſe God I neuer may come foorth againe:</l>
+               <l>What ſaw I there? Oh my eyes were dimme</l>
+               <l>My ſoule, my ſubſtance all was poore, and vaine</l>
+               <l>To comprehend ſo high magnificence;</l>
+               <l>Yet what I can I will you it diſpence.</l>
+            </lg>
+            <lg>
+               <l>I Spanield after <hi>Catechryſius</hi> foot</l>
+               <l>A happie ſhaddow to good a ſubſtance:</l>
+               <l>All like a flower as yet but in thee root</l>
+               <l>Tending to future growth, and ſhone aduance:</l>
+               <l>The Temple-porter was a reuerend man</l>
+               <l>And was t'admit in no <hi>Elizian.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then ask'd he <hi>Catechriſius</hi> who I was</l>
+               <l>Who anſwered a <hi>Catecumen</hi> hee,</l>
+               <l>With that he greeted me, and let me paſſe,</l>
+               <l>Such was my entrie to felicitie:</l>
+               <l>The Temple gates were fovver and this was it</l>
+               <l>Which none but <hi>Europe</hi>-ſpirits might admit.</l>
+            </lg>
+            <pb n="65" facs="tcp:176459:37"/>
+            <lg>
+               <l>There on my knees my heart was full of fire,</l>
+               <l>Fire of the grace of God (deere grace of God)</l>
+               <l>Which ſtrong bemettled my zeales aſpire</l>
+               <l>To view the glorie of that ſhone abod:</l>
+               <l>It was a Pigion from the Temple-top</l>
+               <l>Which all that frame, and glorie did vp prop.</l>
+            </lg>
+            <lg>
+               <l>A Pigeon whiter then the whiteſt Pigion</l>
+               <l>Solie ſubſiſtant of his owne pure <hi>Eſſe,</hi>
+               </l>
+               <l>His <hi>Poſſe</hi> was Sanctification,</l>
+               <l>And Graces bounteous liberalitie;</l>
+               <l>What <hi>Ieſus</hi> erſt had planted with his blood</l>
+               <l>This Pigion gaue it grace-full liuelihood.</l>
+            </lg>
+            <lg>
+               <l>The beames which iſſued from his brightſome briſt</l>
+               <l>Were ſuch as none but <hi>Sion</hi> euer ſaw</l>
+               <l>Nor euer could <hi>Dobleſſas</hi> dreary miſt</l>
+               <l>Indarken, or reſemble, or withdraw;</l>
+               <l>Loue, Peace, and Magnanimity in good</l>
+               <l>Patience, and Prudence aboue all fleſh and blood.</l>
+            </lg>
+            <lg>
+               <l>Iuſtice, and Temperance, and Benignitie,</l>
+               <l>Zeale, and internall Conſolation,</l>
+               <l>Pittie, and hopefull Longanimitie,</l>
+               <l>Obedience, and brotherly Correction,</l>
+               <l>Deuotion, and Mortification</l>
+               <l>And firme affiance in our Lords Saluation.</l>
+            </lg>
+            <pb n="66" facs="tcp:176459:38"/>
+            <lg>
+               <l>Such were the Pigions rayes from Temple-top</l>
+               <l>Which like a heauen of light illumin'd all,</l>
+               <l>It being therto a more ſecure vpprop</l>
+               <l>Then any lime and ſtone, or brazen wall:</l>
+               <l>Oh <hi>Sion, Sion</hi> happie Cittie thow</l>
+               <l>So holie-ghoſted againſt all ouerthrow.</l>
+            </lg>
+            <lg>
+               <l>Then looking downe vnto the reſidue</l>
+               <l>I might diſcerne a reuerend miniſterie</l>
+               <l>Of men and Angels chanting vnto <hi>Ieſu</hi>
+               </l>
+               <l>Inceſſant Hymnes of praiſe and Iubilie;</l>
+               <l>The high Sacrificator at the Altar</l>
+               <l>Victiming with holie rites his makar.</l>
+            </lg>
+            <lg>
+               <l>What ſhall I ſay of all the maieſtie</l>
+               <l>Of all the reuerend rites and ceremonies</l>
+               <l>The rich adorne, the heauenly melodie,</l>
+               <l>The luſter, and the precious ſwauities</l>
+               <l>That there I ſaw, felt, heard, and vnderſtood?</l>
+               <l>Oh, they tranſcended farr poore fleſh and blood.</l>
+            </lg>
+            <lg>
+               <l>For, what the goodneſſe and the power of God</l>
+               <l>In their immenſitie could jointlie doe</l>
+               <l>Was there in force <hi>ſans</hi> bound or period,</l>
+               <l>His grace and glory both did tend therto:</l>
+               <l>The meaneſt obiect there vnto my ſence</l>
+               <l>Was more then all the worlds magnificence.</l>
+            </lg>
+            <pb n="67" facs="tcp:176459:38"/>
+            <lg>
+               <l>There ſaw I ſacred impoſition</l>
+               <l>Of hands; and grace abundantly imparted,</l>
+               <l>Chriſme, and autentique Sanctification</l>
+               <l>And Exorciſme of ſuch as were poſſeſſed:</l>
+               <l>Their credence and their language was alike</l>
+               <l>All <hi>Babell</hi>-Biblers they did dead diſlike.</l>
+            </lg>
+            <lg>
+               <l>There was no ſcambling for the Ghoſpels bread</l>
+               <l>But what a publike Vnitie diliured</l>
+               <l>The ſame a prompt Credulitie receiued;</l>
+               <l>Their humbleneſſe was ſo beholie-ghoſted</l>
+               <l>As Pride had not the power to entice</l>
+               <l>The wiſeſt of them all to a new deuice.</l>
+            </lg>
+            <lg>
+               <l>Caſting my eye aſide, I might diſcrie</l>
+               <l>Selected troopes of people from the reſt</l>
+               <l>Dooming themſelues with great auſteritie</l>
+               <l>Both men and women in diſcullored veſt;</l>
+               <l>They were the people of vowes, and high aſpire</l>
+               <l>Endu'd with Graces more eſpeciall fire.</l>
+            </lg>
+            <lg>
+               <l>On no hand could I caſt my liquoriſh eie</l>
+               <l>From heauenlie miracles and myſteries;</l>
+               <l>Some ſchool'd their Pupils fraile infirmitie</l>
+               <l>Diſpencing them Gods ſacramentall graces,</l>
+               <l>Some raiſ'd the dead, and ſome expulſt the deuill,</l>
+               <l>Yet nought could make <hi>Dobleſsa</hi> ſee her euill.</l>
+            </lg>
+            <pb n="68" facs="tcp:176459:39"/>
+            <lg>
+               <l>How manie Sionits of choiſe eſteeme</l>
+               <l>Braue men of woonders haue beene ſent from thence</l>
+               <l>To teach <hi>Dobleſſa</hi> (Errors dreary Queene)</l>
+               <l>Their Temples ſanctimonie and innocence?</l>
+               <l>How many worthies haue diſpenſt their blood</l>
+               <l>To doe th'vnkind <hi>Dobleſsa</hi> ſo much good.</l>
+            </lg>
+            <lg>
+               <l>But ſhe, oh ſhe accurſed Sorcereſſe</l>
+               <l>Would neuer yet beleeue, nor gree their grace</l>
+               <l>But ſtill perſiſteth in her wretchedneſſe</l>
+               <l>Warfaring with bloody broile this happy place,</l>
+               <l>Yea, had ſhe might according to her malice</l>
+               <l>
+                  <hi>Sion</hi> had been a ruine long ere this.</l>
+            </lg>
+            <lg>
+               <l>She was a Witch, and Queen of all the Deſert</l>
+               <l>From <hi>Babell</hi>-mount vnto the pit of Hell,</l>
+               <l>She forc'd nor God, nor any good deſert,</l>
+               <l>She could doe any thing ſaue doing well:</l>
+               <l>Her law was Libertie, her luſt was Pride</l>
+               <l>And all good awe and order ſhe defi'd.</l>
+            </lg>
+            <lg>
+               <l>Erſt ere this Temple was eſtabliſhed</l>
+               <l>She had no being at all aboue the earth</l>
+               <l>But euer lay in deepeſt hell abyſſed;</l>
+               <l>Why did not God confound her in her birth?</l>
+               <l>Oh, t'was becauſe his Temple might attaine</l>
+               <l>Through her aſſaults to be more ſoueraigne.</l>
+            </lg>
+            <pb n="69" facs="tcp:176459:39"/>
+            <lg>
+               <l>Gods Lambe was now both bred and dead out-right</l>
+               <l>To ranſome all the world from ſinnes inthrall,</l>
+               <l>And to ſecure it in more happie plight</l>
+               <l>Had built this Sanctuarie ſacramentall:</l>
+               <l>It ſhin'd ſo ſhone vnto Gentilitie</l>
+               <l>That it began to ſee, and gree her glorie.</l>
+            </lg>
+            <lg>
+               <l>And as the merrie riuer to the Maine</l>
+               <l>Or the in-ayred ſtone downe to his Center</l>
+               <l>Fleets and deſcends as to their due domaine,</l>
+               <l>So it to <hi>Sion</hi> confluently bent her:</l>
+               <l>Yea, had this hag not been ſo timely bred</l>
+               <l>The world had all ere this been Sioned.</l>
+            </lg>
+            <lg>
+               <l>For ſhe could quaintly maske in <hi>Sions</hi> guize</l>
+               <l>And ſucke out venym from the Flower of life.</l>
+               <l>And ſo retayle it with her ſubtilties</l>
+               <l>For pureſt honey: Such was her deed of ſtrife;</l>
+               <l>Her woluiſh nature in a lamblie hue</l>
+               <l>Shee could diſguize, and ſeeme of <hi>Sions</hi> crue.</l>
+            </lg>
+            <lg>
+               <l>Like Enſignes ſhe oppoſ'd to <hi>Sions</hi> Enſignes,</l>
+               <l>Like her pretence of grace, and Gods high honor,</l>
+               <l>Like Grapes ſhe did contend grew vp her Vines,</l>
+               <l>And as good Gold as <hi>Sions</hi> ſeem'd her Coppor;</l>
+               <l>It was but ſeeming ſo, not ſo indeed,</l>
+               <l>Her ſeeming-flower was a very weed.</l>
+            </lg>
+            <pb n="70" facs="tcp:176459:40"/>
+            <lg>
+               <l>For why, the ſpirit which ſhe did pretend</l>
+               <l>Was not autentique from the holy Ghoſt,</l>
+               <l>On no authority ſhe did depend</l>
+               <l>Not had ſhe certaine being in any coaſt;</l>
+               <l>Her owne beheſt ſhe did Idolatrize,</l>
+               <l>And <hi>Hydra</hi>-like renu'd her Fallacies.</l>
+            </lg>
+            <lg>
+               <l>She had no Altar, nor no Sacrament</l>
+               <l>No Ceremonie, nor Oblation,</l>
+               <l>Her ſchoole was Cauill, &amp; truthleſſe babblement</l>
+               <l>Riot her Raigne, her end damnation;</l>
+               <l>This was the haggard whoore of <hi>Babylon</hi>
+               </l>
+               <l>Whoſe cup inuenym'd all that drunke theron.</l>
+            </lg>
+            <lg>
+               <l>And this was ſhe which now this holie-day</l>
+               <l>Whiles all the Temple was in deep deuotions</l>
+               <l>And high adore of Chriſts natiuity</l>
+               <l>Came with her barbarous Babellonians</l>
+               <l>To bid it battell, and aſſault the place;</l>
+               <l>But (oh the foole) ſhe came againſt Gods grace.</l>
+            </lg>
+            <lg>
+               <l>She came with peace-full Oliffe in her hand</l>
+               <l>Pretending mutuall honor of that feaſt:</l>
+               <l>And all her rabble-rout ſhe did command</l>
+               <l>As much in outward fayning to proteſt,</l>
+               <l>But vnderneath their plauſible attire</l>
+               <l>They all bare balles of venym and wild-fire.</l>
+            </lg>
+            <pb n="71" facs="tcp:176459:40"/>
+            <lg>
+               <l>She was more craftie then Gentilitie</l>
+               <l>Which thought of yore with maſſacre to quell</l>
+               <l>The propagation of Sionrie:</l>
+               <l>For well ſhe wiſt that <hi>Sion</hi> was as a bell</l>
+               <l>And Perſecution but as a clapper</l>
+               <l>That made her ſiluer-ſound more far to ſcatter.</l>
+            </lg>
+            <lg>
+               <l>Shee therfore to beguile with friendlie ſeeming</l>
+               <l>Came thus addreſt; and priuily intempled</l>
+               <l>Her ſpeciall <hi>Bout-fieux</hi> to prepare her comming</l>
+               <l>With ſeeds and weeds of jealoſie and falſhed:</l>
+               <l>Meane while ſhe ſtood without the Temple gate</l>
+               <l>Proteſting zeale and dutie to her ſtate.</l>
+            </lg>
+            <lg>
+               <l>But God whoſe ſpirit euer <hi>Argus</hi> ey'd</l>
+               <l>The weale of <hi>Sion</hi> as th'apple of his eye,</l>
+               <l>Saw from his high enthrone, and did deride</l>
+               <l>The Harlots complot; and did by and by</l>
+               <l>Inſpire his Templers pregnant jealoſie</l>
+               <l>And valure againſt her ſlie hoſtilitie.</l>
+            </lg>
+            <lg>
+               <l>Efts might you heare a battle-bell peale out</l>
+               <l>Religious Larums ouer all the Region</l>
+               <l>And ſee a ſolempne confluence about</l>
+               <l>The high Sacrificators holie Oblation:</l>
+               <l>Each one was on his knees for Confirmation</l>
+               <l>In grace againſt ſo vile prevarication.</l>
+            </lg>
+            <pb n="72" facs="tcp:176459:41"/>
+            <lg>
+               <l>Amongſt the reſt was I a <hi>Catecumen</hi>
+               </l>
+               <l>As yet vngrac'd with his alhallowed hand,</l>
+               <l>Vntill ſuch time as <hi>Catechryſius</hi> then</l>
+               <l>Preſented me, and gaue him t'vnderſtand</l>
+               <l>My Name, my Nation, and Conuerſion</l>
+               <l>And how I crau'd to be a man of <hi>Sion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then tooke he mee by the hand, and did applaud</l>
+               <l>Such my <hi>Primitiae</hi> toward ſo high reſolue,</l>
+               <l>Bleſsing my on-gate from <hi>Dobleſſas</hi> fraud</l>
+               <l>And ſanctifying me with a holie ſalue;</l>
+               <l>He wept for joy that an <hi>Elizian</hi>
+               </l>
+               <l>Would come to be of his Metropolitan.</l>
+            </lg>
+            <lg>
+               <l>And for he ſaw me abſolutely arm'd</l>
+               <l>Alreadie to the warres; he ſaid no more</l>
+               <l>But only bleſt me, and with his breath becharm'd</l>
+               <l>My Conſtancie againſt the <hi>Babell</hi>-whore:</l>
+               <l>And for I was an <hi>Engliſh</hi>-Ilander</l>
+               <l>He prickt me downe vnder Saint <hi>Georges</hi> banner.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Catechryſius</hi> tooke me by the hand</l>
+               <l>And led me to my Cullors; and as we went</l>
+               <l>He briefly told me and gaue me t'vnderſtand</l>
+               <l>How all <hi>Dobleſsas</hi> dorrs I might preuent,</l>
+               <l>And then concluded. Oh, that <hi>Eliza</hi> were</l>
+               <l>A Sionite to day to ſee this geere.</l>
+            </lg>
+            <pb n="73" facs="tcp:176459:41"/>
+            <lg>
+               <l>By this <hi>Dobleſsa</hi> ſeeing all her guile</l>
+               <l>Detected and Alarum'd ouer all,</l>
+               <l>Was in a pelting chafe, and gan reuile</l>
+               <l>The name of <hi>Sion,</hi> and to ſcale the wall:</l>
+               <l>Loe, thus began the holie warres of <hi>Sion</hi>
+               </l>
+               <l>Againſt the rampant Hagg and whoore of <hi>Babylon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then might you ſee whole Legions of Angels</l>
+               <l>Diſcend adowne in amitie of warre</l>
+               <l>To <hi>Sion,</hi> againſt <hi>Dobleſſa</hi> and her deuels:</l>
+               <l>The warre was like as when proud <hi>Lucifar</hi>
+               </l>
+               <l>Tumulting all the Court of heauen was throwne</l>
+               <l>He, and his complices to hell adowne.</l>
+            </lg>
+            <lg>
+               <l>Eſt ſoones the high Sacrificator ſeeing</l>
+               <l>The vp-ſhot brunt of all <hi>Dobleſſas</hi> broyle</l>
+               <l>Came perſonally himſelfe vnto the bickering</l>
+               <l>To cheere his men of warre in all their toyle:</l>
+               <l>And thus beſpake them from the holie Tower,</l>
+               <l>His ſpeech and geſt was full of grace and power.</l>
+            </lg>
+            <lg>
+               <l>Oh men of <hi>Sion,</hi> happy Machabies,</l>
+               <l>Whom Temples honor in your ſoules ingrafted</l>
+               <l>Highlie demeanes to Gods benignities;</l>
+               <l>Diſmay not at the number of the dead</l>
+               <l>But thinking who he is for whom you fight</l>
+               <l>Redouble your proweſſe, and your manly might.</l>
+            </lg>
+            <pb n="74" facs="tcp:176459:42"/>
+            <lg>
+               <l>You combate for the high <hi>Hieruſalem</hi>
+               </l>
+               <l>
+                  <hi>A</hi> region of Peace and Immortalitie</l>
+               <l>Fore-ſpell'd, and promiſt only vnto them</l>
+               <l>That ſtraine in her behalfe their vp-ſhot conſtancie:</l>
+               <l>Nor feare yee any woundes or any dying</l>
+               <l>So good a death tends to a better reuiuing.</l>
+            </lg>
+            <lg>
+               <l>See, how confuſedly <hi>Dobleſsa</hi> fightes</l>
+               <l>Without all diſcipline or good array,</l>
+               <l>Her Camp abandon'd to inteſtine ſpightes</l>
+               <l>And euerie one contending to beare ſway;</l>
+               <l>Their owne diſorder will confound their power</l>
+               <l>The frame of Diſcord dures not an hower.</l>
+            </lg>
+            <lg>
+               <l>On then like gallants of the holy-Ghoſt</l>
+               <l>Fighting in Vnity, and for a Crowne</l>
+               <l>Againſt a raſcall and tumultuous Hoſt:</l>
+               <l>Nere let the ſtrumpet pull the Temple downe,</l>
+               <l>No, neuer ſhall the ſtrumpet pull it downe</l>
+               <l>For God is God, and it is all his owne.</l>
+            </lg>
+            <lg>
+               <l>Rememorate the glorie of her Age,</l>
+               <l>And of her Raigne, and of her priſtin Warres</l>
+               <l>How often hath ſhe quell'd <hi>Dobleſsas</hi> rage</l>
+               <l>Attempting to aſſayle her holy Rampiars?</l>
+               <l>Hath ſhe not been a Nurſe vnto yee all</l>
+               <l>A Shelter, and a feaſt moſt feſtiuall?</l>
+            </lg>
+            <pb n="75" facs="tcp:176459:42"/>
+            <lg>
+               <l>Beſides, hath God not promiſed of yore</l>
+               <l>That hell ſhall nere preuaile againſt her gates?</l>
+               <l>And hath not he vouchſau'd to die therfore</l>
+               <l>Eſtabliſhing her glorie againſt all Fates?</l>
+               <l>Yea, is not he her fundamentall ſtone</l>
+               <l>Her daylie Sacrifice and high Oblation?</l>
+            </lg>
+            <lg>
+               <l>What will ye more? Oh Sionites no more,</l>
+               <l>But to your tacklings ſtand like men of honor</l>
+               <l>Like men of <hi>Sion,</hi> one to twentie ſcore</l>
+               <l>Such <hi>Babell</hi>-hildings; mortifie their rancor</l>
+               <l>With conſtant and imperious reſiſtance,</l>
+               <l>God and his Angels are in your aſsiſtance.</l>
+            </lg>
+            <lg>
+               <l>So ſaid, he bleſt them, and diſmiſt them all;</l>
+               <l>Who ſtraight in troops vnto the Rampiers ran</l>
+               <l>And happie he could get vpon the wall:</l>
+               <l>There then a ſecond skirmiſh freſh began,</l>
+               <l>
+                  <hi>Dobleſſa</hi> ſtill perſiſting in th'aſſault</l>
+               <l>And <hi>Sion</hi> fierce ſupplying all default.</l>
+            </lg>
+            <lg>
+               <l>It was a heauen to ſee the good array</l>
+               <l>And vnitie of <hi>Sion</hi> in this conflict,</l>
+               <l>How euerie one was willing to obay</l>
+               <l>His Officers encharge though nere ſo ſtrict,</l>
+               <l>The holy-Ghoſt was in and ouer all</l>
+               <l>Cheering their combate with his cordiall.</l>
+            </lg>
+            <pb n="76" facs="tcp:176459:43"/>
+            <lg>
+               <l>Meane while the high Sacrificator, he</l>
+               <l>Attended to the Temples Sacrifice</l>
+               <l>Offring it vp for peace and victorie,</l>
+               <l>He chanted Hymnes, and Laudes, and Letanies,</l>
+               <l>And in Pontificall Procesſion</l>
+               <l>He and his Clergie made their interceſsion.</l>
+            </lg>
+            <lg>
+               <l>Some in their ſtuddies commented the Text</l>
+               <l>Conferring place with place, and with traditions</l>
+               <l>Ov'ring the fraud wherwith <hi>Dobleſſa</hi> vext</l>
+               <l>Their Ghoſpels peace; ſome others in her ſtations</l>
+               <l>Boldlie aduentured their liues to tell</l>
+               <l>The Babellonians of all her hell.</l>
+            </lg>
+            <lg>
+               <l>Some they perſwaded, thoſe were verie few</l>
+               <l>And of thoſe few not one of ten perſiſted,</l>
+               <l>But ſtill as feare and fraud their frailties drew</l>
+               <l>They ſtarted backe againe like men agaſted:</l>
+               <l>Oh, what it is to be too ſecular,</l>
+               <l>It was ſelfe-loue that all their weale did marre.</l>
+            </lg>
+            <lg>
+               <l>And of ſuch braue aduenturous Sionites</l>
+               <l>As <hi>Dobleſſa</hi> could by hooke or crooke intrap</l>
+               <l>They di'd the death, and ſuffred all the ſpights</l>
+               <l>That rage and raſcall wit could jointly rap,</l>
+               <l>Subject they were to dreadfull perſecution</l>
+               <l>By publick edict, and falſe brethrens treaſon.</l>
+            </lg>
+            <pb n="77" facs="tcp:176459:43"/>
+            <lg>
+               <l>What ſacring, and what ſacramenting was</l>
+               <l>In <hi>Sion</hi> all this while for <hi>Sions</hi> ſafetie</l>
+               <l>Was more then all the ſtrength of ſtone and braſſe</l>
+               <l>In her defence; God not in enmitie</l>
+               <l>But for her greater glories ſake permitting</l>
+               <l>
+                  <hi>Dobleſſa</hi> thus to bid it bale and bickring.</l>
+            </lg>
+            <lg>
+               <l>Contrarie-wiſe, <hi>Dobleſſa</hi> ru'd the fate</l>
+               <l>Of her attempt; her mood began to quaile,</l>
+               <l>For God now ſeeing the prefixed date</l>
+               <l>Of <hi>Sions</hi> patience in her laſt auayle</l>
+               <l>Did on the ſuddaine ſo enlarge his grace</l>
+               <l>That th'whoore retir'd, and gaue backe apace.</l>
+            </lg>
+            <lg>
+               <l>And then to ſhew her lateſt trumperie</l>
+               <l>(Now that our Lords permiſsion faild her powre)</l>
+               <l>She gan with Magicke-ſpels and ſorcerie</l>
+               <l>Faire Virgin-like to falſifie her figure,</l>
+               <l>Therby to ſeeme as gracious as ſhe could</l>
+               <l>To <hi>Sions</hi> eie; ſuch was her guize of ould.</l>
+            </lg>
+            <lg>
+               <l>But when ſhe ſaw that all her fallaces</l>
+               <l>And fierce aſſaults to <hi>Sion</hi> were in vaine,</l>
+               <l>And feeling now withall Gods heauie furies</l>
+               <l>Showre down vpon her like a floud of raine,</l>
+               <l>Shee could no longer bide the brunt of <hi>Sion</hi>
+               </l>
+               <l>But backe ſhe reel'd to hell and <hi>Babylon.</hi>
+               </l>
+            </lg>
+            <pb n="78" facs="tcp:176459:44"/>
+            <lg>
+               <l>And fearing leaſt her daunted enterprize</l>
+               <l>Might haplie alien her peoples hearts</l>
+               <l>From her obeyſance: She ſo bewitcht their eies</l>
+               <l>With myſtes of falſed glory, and high deſerts,</l>
+               <l>That they beſotted in their diſaſter</l>
+               <l>Betooke them to their heeles, and fled with her.</l>
+            </lg>
+            <lg>
+               <l>And as they fled, Oh, marke their vanitie,</l>
+               <l>They did ſo crauin-cockadoodle it</l>
+               <l>As though they had run away victorie</l>
+               <l>And left faire <hi>Sion</hi> in her dying fit,</l>
+               <l>Such hoopes, ſuch clangor, and ſuch ſymphonie</l>
+               <l>And all was but <hi>Dobleſſas</hi> pollicie.</l>
+            </lg>
+            <lg>
+               <l>She nuſled them in ſo proud Peacockrie</l>
+               <l>To th'end they might not ſee their damned ſtate,</l>
+               <l>But ſtill perſeuer as the Bumble-Bee</l>
+               <l>Repine-leſſe in their dung, and deſperate:</l>
+               <l>Oh, curſed and vnkind captiuitie</l>
+               <l>To be ſo willing drudge to Falſitie.</l>
+            </lg>
+            <lg>
+               <l>Yet ſome whome <hi>Sions</hi> more eſpeciall beame</l>
+               <l>Had bright appaid to ſee her dignitie</l>
+               <l>Fled from the witch, as wak'd from out a dreame</l>
+               <l>Of Faery, and Chimericall Imagerie,</l>
+               <l>Such <hi>Sion</hi> intromitted in her gate</l>
+               <l>Applauding them with deere congratulate.</l>
+            </lg>
+            <pb n="79" facs="tcp:176459:44"/>
+            <lg>
+               <l>Contrarie-wiſe whatſoeuer Sionite</l>
+               <l>
+                  <hi>Dobleſſa</hi> could with ſlight or fight enthrall</l>
+               <l>She led away into eternall night</l>
+               <l>Blind-folding their eyes to make them fall</l>
+               <l>Into a thouſand helles and offendickles,</l>
+               <l>Thriſe fatall lapſe from Grace into ſuch pickles.</l>
+            </lg>
+            <lg>
+               <l>Nor was the holie Temple thus acquitted</l>
+               <l>For euer after from her hoſtill trouble</l>
+               <l>But ſtill as <hi>Hydra</hi>-like ſhe had renued</l>
+               <l>One head vpon the others ſtump and ſtubble</l>
+               <l>She came againe, and made a braggard-ſhow,</l>
+               <l>But ſtill ſhe bare away the Palſie-blow.</l>
+            </lg>
+            <lg>
+               <l>Such being the ancient league of God to <hi>Sion</hi>
+               </l>
+               <l>Neceſsiting her Peace to ſuch temptation</l>
+               <l>And yet withall proteſting his protection</l>
+               <l>Therto: againſt all hell and <hi>Babylon:</hi>
+               </l>
+               <l>What greater ſafetie then ſo good aſſurance?</l>
+               <l>The word of God is of eternall durance.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Sion</hi> triumpht ouer moode and tumult</l>
+               <l>Cabaging her Peace in perfect vnitie</l>
+               <l>Againſt whatſoeuer future-Sciſmes inſult:</l>
+               <l>And ſeeing now no more hoſtilitie</l>
+               <l>But all the Region cleere: She fell arifling</l>
+               <l>
+                  <hi>Dobleſſas</hi> ſpoyles, the Honors of her fighting.</l>
+            </lg>
+            <pb n="80" facs="tcp:176459:45"/>
+            <lg>
+               <l>And in her warlike wardrop there ſhe plaſt them</l>
+               <l>Amongſt a world of former pillages</l>
+               <l>And ſpoyles of <hi>Babell:</hi> high <hi>Hieruſalem</hi>
+               </l>
+               <l>Siſterlie applauding ſuch her victories,</l>
+               <l>And thinking long the day to honor her</l>
+               <l>With her embrace, and euerlaſting cheere.</l>
+            </lg>
+            <lg>
+               <l>Then (to conclude) the high Sacrificator</l>
+               <l>Came foorth in place, and bleſt the Combatants,</l>
+               <l>Bidding them giue to God th'eternall honor</l>
+               <l>Of ſo high hap: And therupon he deſcants</l>
+               <l>A large diſcourſe of Gods protection</l>
+               <l>How prompt he alwayes was to ſuccour <hi>Sion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So done: he efts diſmiſt the multitude</l>
+               <l>T'attend vnto the buriall of their brethren</l>
+               <l>Whom <hi>Sions</hi> honor had that day endu'd</l>
+               <l>With zeale to die for her like valiant men;</l>
+               <l>Their graues reſented Immortalitie</l>
+               <l>Sweeter then all the ſents of <hi>Arabi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And for it was a ſpeciall victorie</l>
+               <l>Archiu'd euen on the very walles of <hi>Sion,</hi>
+               </l>
+               <l>There was proclaim'd a generall Iubilie</l>
+               <l>To be ſollemniz'd throughout all the region</l>
+               <l>The Octaue after: in feaſt-full reference</l>
+               <l>And thanks to God for ſuch his high defence.</l>
+            </lg>
+            <pb n="81" facs="tcp:176459:45"/>
+            <lg>
+               <l>In which meane while the holie Sacrificer</l>
+               <l>Progreſsing the Prouince, viſited his flocke</l>
+               <l>And with his paſtorall care, and Crozier</l>
+               <l>Out-weeded and retrenched from the ſtocke</l>
+               <l>Whatſoeuer venym weed, or graft of Error</l>
+               <l>
+                  <hi>Dobleſſa</hi> had ſowne, or ſet with guile, or terror.</l>
+            </lg>
+            <lg>
+               <l>Namelie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he did eſpecially diſpoſe</l>
+               <l>To carefull cure the wownded Combatantes;</l>
+               <l>And ſuch as brunt of warre had ſlaine; all thoſe</l>
+               <l>H'Incallendred to Fames rememberance:</l>
+               <l>Laſtly, he did repaire and fortifie</l>
+               <l>Each ruine againſt all future enemie.</l>
+            </lg>
+            <lg>
+               <l>By this the Octaue-day of victorie</l>
+               <l>Was come; when (loe) the Temples ſiluer belles</l>
+               <l>Selfely out-pealed to feſtiuitie;</l>
+               <l>Then might you ſee both Sionits and Angels</l>
+               <l>Troop to the Temple-ward like ſwarmes of Bees</l>
+               <l>And hand in hand downe falling on their knees.</l>
+            </lg>
+            <lg>
+               <l>You may imagine, no you are to fraile</l>
+               <l>To comprehend ſo high magnificence:</l>
+               <l>There ſawe I heauen and earth in ioynt-entayle</l>
+               <l>Homaging to Gods beneuolence</l>
+               <l>A world of praiſe and <hi>Alleluy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es,</hi>
+               </l>
+               <l>Hallowing the aire with ſo thankfull phraſe.</l>
+            </lg>
+            <pb n="82" facs="tcp:176459:46"/>
+            <lg>
+               <l>I ſaw the high Proceſsion paſſe along</l>
+               <l>In intermixed rankes of men and Angels</l>
+               <l>The holie-Ghoſt ouer-hov'ring their ſong:</l>
+               <l>There ſounded Muſick-inſtruments and Belles;</l>
+               <l>Yea, birdes conſorted with their warbling lays</l>
+               <l>T'enter-common alſo in this dayes praiſe.</l>
+            </lg>
+            <lg>
+               <l>Along as thus we march'd about the Temple</l>
+               <l>In rich array, in ſweetes, and mellodie,</l>
+               <l>A ſuddaine Zephire-gale blew from the ſteeple</l>
+               <l>Solliciting our eyes ſupernally,</l>
+               <l>And what it was; Oh, there I bend my knee</l>
+               <l>It was a Virgin in bright maieſtie.</l>
+            </lg>
+            <lg>
+               <l>The skie did open, and adowne diſcended</l>
+               <l>Vpon a ſiluer-cloud this ſollempne ſight</l>
+               <l>A Mayden-Nymph moſt ſhone-ſatellited</l>
+               <l>With all the Angell-court of heauen out-right.</l>
+               <l>She was inueſted in as Orient ſplender</l>
+               <l>As Gods omnipotence and Loue could lend her.</l>
+            </lg>
+            <lg>
+               <l>She was the <hi>Genium</hi> of high <hi>Hieruſalem</hi>
+               </l>
+               <l>The Patroneſſe of <hi>Sion,</hi> and the Aduocate</l>
+               <l>Of grace and mercie vnto mortall men;</l>
+               <l>Her comming was for to congratulate</l>
+               <l>This triumph-day and gratefull Iubilie</l>
+               <l>Of <hi>Sion</hi> vnto God for victorie.</l>
+            </lg>
+            <pb n="83" facs="tcp:176459:46"/>
+            <lg>
+               <l>Which ſuch her preſence ſtinted our Proceſsion</l>
+               <l>Rapting vs all into a ſweet admire</l>
+               <l>Of ſo ſhone figure: her irradiation</l>
+               <l>Flaming our ſpirites with a mightie fire</l>
+               <l>Of Seraphin-affection and zeale</l>
+               <l>To die in viſion of her ſweet reueale.</l>
+            </lg>
+            <lg>
+               <l>I may not be ſo impious and prophane</l>
+               <l>As to compare this heauenlie ſpectacle</l>
+               <l>To any earthlie pompe, or jollie vaine</l>
+               <l>Of <hi>Caeſars</hi> Bride: whoſe pride is but a cackle</l>
+               <l>Or as a ſhaddow in compariſon</l>
+               <l>Of ſo triumphant and moſt Virgin-viſion.</l>
+            </lg>
+            <lg>
+               <l>There on the Temple-pinacle ſhe reſted</l>
+               <l>Gracing, and doubling our ſollempne feaſt</l>
+               <l>With her in-heauen; And all the while ſhe atteſted</l>
+               <l>Both with her glee-full countenance and geſt</l>
+               <l>Gods euerlaſting loue vnto the place</l>
+               <l>And eke her owne againſt <hi>Dobleſſas</hi> race.</l>
+            </lg>
+            <lg>
+               <l>At laſt ſhe gan to waue and wend about</l>
+               <l>Our ſollempne multitude with all her traine</l>
+               <l>Suſpending vs in a delitious doubt</l>
+               <l>Of ſome ſweet ſequell: Our doubt was not in vaine,</l>
+               <l>For on the ſuddaine houering ouer vs</l>
+               <l>She ſhowr'd downe Roſes moſt odoriferous.</l>
+            </lg>
+            <pb facs="tcp:176459:47"/>
+            <lg>
+               <l>Roſes both red and white adowne ſhe ſhewred</l>
+               <l>From out her virgin-lap, ſo ſweet reſenting</l>
+               <l>As all our ſences into ſent adiured:</l>
+               <l>So done; ſhe vaniſht, leauing vs a ſcambling</l>
+               <l>For ſuch her ſweets; I for my part was one</l>
+               <l>That neuer would giue ouer till all had done.</l>
+            </lg>
+            <lg>
+               <l>And ſtill I call'd vpon <hi>Elizas</hi> name</l>
+               <l>Thinking thoſe Roſes hers, that figure hers,</l>
+               <l>Vntill ſuch time as <hi>Catechryſius</hi> came</l>
+               <l>And pointing me vnto his faithfull teares</l>
+               <l>(Teares of the zeale he bare t'<hi>Elizas</hi> name)</l>
+               <l>He told me No; ſhe was an Eſterne Dame.</l>
+            </lg>
+            <lg>
+               <l>With that I caſt mine eye into the Eaſt</l>
+               <l>Where yet I might diſcerne the region bright,</l>
+               <l>Much like as when the Sunne downe in the Weſt</l>
+               <l>Newly diſcended, leaues vs of his light</l>
+               <l>Some Rubie-rellickes after: Oh, deer God</l>
+               <l>Why made ſhe not with vs more long abod.</l>
+            </lg>
+            <lg>
+               <l>Rapt with theſe woonders, wrapt in virgin-Roſes</l>
+               <l>And faire be-Sioned againſt misfortune,</l>
+               <l>I ſuddainly was gone from theſe repoſes</l>
+               <l>Sollicited with an eſpeciall importune</l>
+               <l>Of home-ward zeale, and of <hi>Elizas</hi> name,</l>
+               <l>Wherto I bend, and ſay; God bleſſe the ſame.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176459:47"/>
+         </div>
+      </body>
+   </text>
+</TEI>
